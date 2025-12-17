@@ -189,9 +189,10 @@ The fundamental design principles that guide all decisions:
 
 **Current Documentation**:
 - [[Bosses/BossOverview|Boss Design]] - Mercy-kill mechanics, boss concepts, Lament cutscenes
+- [[Systems/GameFeel|Game Feel]] - Visual/audio feedback techniques, juice and polish
 
 **Future Documentation**:
-- [[Mechanics/Movement|Movement & Platforming]] - Jump, dash, air control
+- [[Mechanics/PlayerMovement|Player Movement]] - Movement mechanics, coyote time, jump buffer
 - [[Mechanics/Combat|Combat System]] - Shooting, melee, magic abilities
 - [[Systems/CompanionAI|Companion System]] - Following AI, healing mechanics
 - [[Systems/HealthDamage|Health & Damage]] - Player/companion health, fail states
