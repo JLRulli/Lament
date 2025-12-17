@@ -187,13 +187,14 @@ The fundamental design principles that guide all decisions:
 
 ## Documentation Links
 
-Future documentation to be created:
+**Current Documentation**:
+- [[Bosses/BossOverview|Boss Design]] - Mercy-kill mechanics, boss concepts, Lament cutscenes
 
+**Future Documentation**:
 - [[Mechanics/Movement|Movement & Platforming]] - Jump, dash, air control
 - [[Mechanics/Combat|Combat System]] - Shooting, melee, magic abilities
 - [[Systems/CompanionAI|Companion System]] - Following AI, healing mechanics
 - [[Systems/HealthDamage|Health & Damage]] - Player/companion health, fail states
-- [[Systems/BossFights|Boss Design]] - Mercy-kill mechanics, boss patterns
 - [[Narrative/WorldBuilding|World & Lore]] - Setting, themes, surrealist elements
 - [[Narrative/Companion|Companion Character]] - Identity, relationship, arc
 - [[Technical/2D3DHybrid|2D/3D Architecture]] - How 3D art works with 2D logic
