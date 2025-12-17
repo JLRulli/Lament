@@ -2,6 +2,8 @@
 
 Welcome to the Lament project documentation. This Obsidian vault contains all game design documentation, technical specifications, and project planning materials.
 
+**Lament** is a 2D side-scrolling platformer-shooter where every healing choice hurts your companion and every boss was once human. Navigate surreal fantasy worlds, master magic-based combat, and face the emotional weight of mercy and sacrifice.
+
 ---
 
 ## Quick Links
@@ -83,6 +85,7 @@ Documentation/
 _This section tracks major documentation updates. Update when making significant changes._
 
 - **2025-12-16**: Initial documentation structure created
+- **2025-12-16**: Game Design Overview completed with core concept, mechanics, and roadmap
 
 ---
 
@@ -91,6 +94,14 @@ _This section tracks major documentation updates. Update when making significant
 **Phase**: Pre-production / Setup  
 **Unreal Engine**: 5.5  
 **Primary Language**: C++
+
+**Game Type**: 2D Side-Scrolling Platformer-Shooter (2.5D presentation)  
+**Setting**: Dark fantasy with Lynchian surrealist elements  
+**Core Mechanics**:
+- Companion healing that hurts her (sacrifice mechanic)
+- Magic-based shooting and melee combat
+- Mercy-kill boss fights against former humans
+- Dual fail state (player death OR companion depletion)
 
 ---
 

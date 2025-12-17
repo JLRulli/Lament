@@ -1,6 +1,22 @@
 # Lament
 
-A game development project built with Unreal Engine 5.5.
+A 2D side-scrolling platformer-shooter where every healing choice hurts your companion and every boss was once human.
+
+**Genre**: 2D Platformer-Shooter (2.5D presentation)  
+**Engine**: Unreal Engine 5.5  
+**Status**: Pre-production
+
+---
+
+## About the Game
+
+Lament is a dark fantasy action platformer that explores themes of sacrifice, mercy, and the cost of survival. Players navigate surreal, Lynchian worlds filled with magic-based combat and precision platforming.
+
+**The Hook**: Your companion heals you, but it hurts her. Every mistake you make forces you to choose between your survival and her suffering. Mastery isn't rewarded with power - it's rewarded by protecting someone you care about.
+
+**The World**: Traverse interconnected levels through multiple worlds, each ending in a boss fight against beings who have lost their humanity. These aren't triumphant battles - they're tragic mercy killings.
+
+**The Experience**: 3D art rendered from a 2D perspective, blending the visual richness of modern games with the tight, responsive feel of classic platformers. Dark fantasy meets surrealist dreamscapes in an emotionally-driven action game.
 
 ---
 
@@ -8,7 +24,7 @@ A game development project built with Unreal Engine 5.5.
 
 This repository contains all materials for the Lament game project, including:
 - Game design documentation (Obsidian vault)
-- Unreal Engine project files
+- Unreal Engine project files (to be created)
 - Automation scripts and development tools
 - Source assets
 
@@ -204,12 +220,28 @@ See `.gitignore` for complete list.
 
 ---
 
+## Core Features
+
+- **Companion Sacrifice Mechanic**: Healing hurts your companion, creating emotional weight for every mistake
+- **Mercy-Kill Boss Fights**: Fight tragic battles against former humans who must be put to rest
+- **Magic-Based Combat**: Blend ranged shooting and melee attacks with magical abilities
+- **Surreal Fantasy World**: Lynchian aesthetics meet dark fantasy in dreamlike environments
+- **2.5D Presentation**: 3D art with 2D gameplay for visual depth and tight controls
+- **Dual Fail State**: Die from damage OR from draining your companion completely
+
+---
+
 ## Project Status
 
 **Phase**: Pre-production / Setup  
 **Last Updated**: 2025-12-16
 
-See `Documentation/GameDesign/Overview.md` for development roadmap.
+**Current Focus**: 
+- Design documentation
+- Core mechanic prototyping
+- Art direction establishment
+
+See `Documentation/GameDesign/Overview.md` for complete development roadmap and game design details.
 
 ---
 
