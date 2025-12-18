@@ -192,6 +192,8 @@ The fundamental design principles that guide all decisions:
 - [[Bosses/BossOverview|Boss Design]] - Mercy-kill mechanics, boss concepts, Lament cutscenes
 - [[Systems/GameFeel|Game Feel]] - Visual/audio feedback techniques, juice and polish
 - [[Mechanics/PlayerMovement|Player Movement]] - Movement mechanics, platforming, advanced techniques
+- [[Worlds/WorldConcepts|World Concepts]] - World themes, atmosphere, locations
+- [[Worlds/LevelDesign|Level Design]] - Interactables, obstacles, level patterns
 
 **Future Documentation**:
 - [[Mechanics/Combat|Combat System]] - Shooting, melee, magic abilities

@@ -84,6 +84,7 @@ Documentation/
 
 _This section tracks major documentation updates. Update when making significant changes._
 
+- **2025-12-17**: World concepts and level design documentation added
 - **2025-12-17**: Player Movement mechanics documentation completed
 - **2025-12-16**: Initial documentation structure created
 - **2025-12-16**: Game Design Overview completed with core concept, mechanics, and roadmap
