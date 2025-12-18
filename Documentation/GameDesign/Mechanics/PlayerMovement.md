@@ -103,6 +103,37 @@ Jump input registered slightly before landing still executes on touchdown.
 
 ---
 
+#### Variable Jump Height
+
+**Concept**: Releasing jump button early makes the jump shorter via increased gravity.
+
+**Mechanics**:
+- **Hold jump button** → full height jump (reach max jump power)
+- **Release jump button early** → shorter jump (extra gravity kicks in)
+- **Gravity multiplier** applied when jump released while moving upward
+- Does not affect already-falling state (only upward movement)
+- **Applies to both first jump and double jump** equally
+
+**Design Rationale**: 
+- Provides player control over jump height without separate buttons
+- Allows precise platforming (short hop vs full jump)
+- Industry-standard mechanic (Mario, Celeste, Hollow Knight all use this)
+- Increases skill ceiling while remaining intuitive
+- Natural, responsive feel
+- Essential for threading tight gaps with variable heights
+
+**Reference**: Celeste uses ~3x gravity multiplier for jump cuts, creating responsive short-hop feel.
+
+**Design Questions**:
+- [ ] Gravity multiplier strength (2x, 3x, 4x normal gravity?)
+- [ ] Does multiplier strength differ between first jump and double jump?
+- [ ] Visual/audio feedback when jump is cut?
+- [ ] How does this interact with dash momentum?
+- [ ] Minimum upward velocity threshold before cut applies?
+- [ ] Does wall jump have same cut behavior?
+
+---
+
 #### Air Control
 
 Horizontal movement control while airborne.
@@ -127,6 +158,74 @@ Horizontal movement control while airborne.
 - [ ] Air control after double jump (same, more, less?)
 - [ ] Air control during/after dash
 - [ ] Can change direction in air or only adjust speed?
+
+---
+
+### Slopes & Grounding
+
+#### Slope Traversal
+
+**Concept**: Player can walk and run on angled surfaces with natural physics.
+
+**Mechanics**:
+- **Automatic slope adaptation** - player character aligns to slope angle
+- **Speed modifiers based on slope angle**:
+  - Uphill: slight speed reduction (harder to climb)
+  - Downhill: slight speed increase (gravity assists)
+- Can jump from slopes in perpendicular direction to surface
+- **Auto-slide on steep slopes** when angle exceeds walkable threshold
+- Different surface types affect slope behavior (normal, ice, mud)
+
+**Design Rationale**:
+- Slopes add verticality to level design without stairs/platforms
+- Speed modifiers create natural "flow" feeling on hills
+- Auto-slide on steep slopes provides interesting traversal challenges
+- Surface variety (ice/mud) adds environmental puzzle elements
+- Essential for outdoor environments and varied terrain
+
+**Design Questions**:
+- [ ] Maximum walkable slope angle before auto-slide (30°, 45°, 60°?)
+- [ ] Uphill speed penalty percentage
+- [ ] Downhill speed boost percentage
+- [ ] Auto-slide acceleration and control retention
+- [ ] Does slide mechanic work differently on slopes?
+- [ ] Can attack while sliding down steep slope?
+- [ ] Jump height/distance modified when jumping from slopes?
+
+**Surface Type Variations**:
+- [ ] Ice slopes - reduced friction, faster sliding, less control
+- [ ] Mud slopes - increased friction, slower movement, more control
+- [ ] Normal slopes - standard friction and control
+
+---
+
+#### Grounding Force
+
+**Concept**: Small constant downward force applied while grounded to maintain ground contact.
+
+**Mechanics**:
+- **Constant downward pressure** (~1.5-3.0 units) applied when grounded
+- Helps player stick to slopes and moving platforms
+- Prevents "popping off" slopes during horizontal movement
+- Prevents micro-bounces when landing
+- Only applied when grounded and not jumping/airborne
+
+**Design Rationale**:
+- Ensures consistent ground contact on angled surfaces
+- Prevents floating or jittering on slopes
+- Critical for moving platform stability
+- Improves overall ground movement feel and predictability
+- Without this, players can unintentionally "hop" on slopes
+- Essential for physics-based platformers using realistic gravity
+
+**Reference**: Standard technique in Unity/physics-based platformers to ensure ground adherence. Celeste uses similar approach.
+
+**Design Questions**:
+- [ ] Grounding force strength (how much downward pressure?)
+- [ ] Should force scale with slope angle (more force on steeper slopes)?
+- [ ] Does force affect one-way/fall-through platforms differently?
+- [ ] Interaction with wall slide (does grounding force disable on walls?)
+- [ ] Visual/audio feedback for grounding on different surfaces?
 
 ---
 
@@ -314,6 +413,37 @@ Jump off wall while wall sliding.
 
 ---
 
+#### Ceiling Detection
+
+**Concept**: Prevents player from passing through solid ceilings and clamps upward velocity on impact.
+
+**Mechanics**:
+- **Upward collision detection** while jumping or moving upward
+- **Velocity immediately clamped to zero** (or slightly negative) when ceiling hit
+- Prevents "bonking through" ceilings at high speeds
+- Works with flat ceilings, slopes, angled surfaces, and moving platforms
+- Detection happens before player overlaps with ceiling geometry
+
+**Design Rationale**:
+- Maintains level integrity (prevents skipping areas by jumping through)
+- Provides satisfying "bonk" feedback when hitting ceiling
+- Essential for tight vertical spaces and low passages
+- Prevents physics exploits and sequence breaking
+- Allows for design of claustrophobic spaces and low tunnels
+- Important for rooms with bullet-hell ceiling patterns
+
+**Design Questions**:
+- [ ] Detection distance/tolerance for ceiling hits (raycast length)
+- [ ] Does hitting ceiling cancel double jump availability?
+- [ ] Knockback effect when hitting ceiling at high speed?
+- [ ] Stun or animation lock when bonking hard?
+- [ ] Different behavior for different ceiling types (soft vs hard surfaces)?
+- [ ] Audio/visual feedback for ceiling bonks (screen shake, particles?)
+- [ ] Does ceiling hit trigger i-frames or damage in certain situations?
+- [ ] Ceiling detection priority vs wall detection (corners?)
+
+---
+
 ## Combat Integration
 
 **Note**: See [[Mechanics/Combat|Combat System]] (future doc) for complete combat mechanics and spell details.
@@ -486,6 +616,32 @@ _This section reserved for specific numerical values to be determined through pl
 - [ ] Coyote time duration
 - [ ] Jump buffer window duration
 
+**Variable Jump Height**:
+- [ ] Jump cut gravity multiplier (2x, 3x, or 4x normal gravity?)
+- [ ] Minimum upward velocity before cut applies
+- [ ] Does double jump have same or different cut multiplier?
+
+**Falling & Terminal Velocity**:
+- [ ] Max fall speed / Terminal velocity
+- [ ] Fall acceleration (how quickly max fall speed is reached)
+- [ ] Does terminal velocity differ after different actions? (fall vs fast fall vs knockback)
+- [ ] Time to reach terminal velocity from standstill fall
+
+**Slopes & Grounding**:
+- [ ] Maximum walkable slope angle (degrees)
+- [ ] Grounding force strength (-1.5 to -3.0 recommended)
+- [ ] Uphill speed modifier percentage
+- [ ] Downhill speed modifier percentage
+- [ ] Auto-slide angle threshold (steeper than walkable)
+- [ ] Auto-slide acceleration and max speed
+- [ ] Ice slope friction multiplier
+- [ ] Mud slope friction multiplier
+
+**Ceiling Detection**:
+- [ ] Ceiling detection raycast distance/tolerance
+- [ ] Velocity clamp value on ceiling hit (0 or slightly negative?)
+- [ ] Screen shake intensity on hard bonks
+
 **Slide**:
 - [ ] Initial slide speed
 - [ ] Slide friction/deceleration curve
@@ -533,8 +689,11 @@ Values should support:
 
 **Jumping**:
 - [ ] Jump arc shape (floaty vs tight, linear vs curved)
-- [ ] Variable jump height (hold button longer = higher jump)?
 - [ ] "Fast fall" option (press down in air to fall faster)?
+- [ ] Terminal velocity cap (max fall speed)
+- [ ] Fall acceleration rate vs jump gravity rate
+- [ ] Different terminal velocities for different states? (normal fall, fast fall, knockback)
+- [ ] Ceiling bonk knockback or just velocity clamp?
 
 ### Air Control & Aerial Movement
 
@@ -601,6 +760,16 @@ Values should support:
 - [ ] Environmental surface type variations (slippery, sticky, bouncy, etc.)
 - [ ] Moving platform interactions
 
+### Slopes & Terrain
+
+- [ ] Maximum walkable slope angle
+- [ ] Speed changes on uphill vs downhill
+- [ ] Surface type variations (ice, mud, bouncy, sticky, etc.)
+- [ ] Auto-slide on steep slopes
+- [ ] Slope jump direction (perpendicular to surface or always vertical?)
+- [ ] Grounding force strength and scaling
+- [ ] Auto-slide control retention (none, limited, full?)
+
 ### Animation & Feel
 
 - [ ] Animation blending priorities
@@ -641,6 +810,9 @@ Movement is the foundation of player experience in Lament. It must support:
 - Wall jump and climb systems
 - Slide-jump momentum mechanics
 - Air control with apex consideration
+- Variable jump height (3x gravity multiplier on release)
+- Slope handling and grounding force
+- Ceiling detection with satisfying bonk feedback
 
 **Cuphead** (Combat Context):
 - Bullet-hell navigation requirements
@@ -669,8 +841,12 @@ Movement is the foundation of player experience in Lament. It must support:
 **Phase 1 - Core Movement**:
 1. Walk/run with proper acceleration
 2. Jump with tunable height/arc
-3. Basic air control
-4. Crouch/duck
+3. Variable jump height (jump cut with gravity multiplier)
+4. Basic air control
+5. Crouch/duck
+6. Slope detection, traversal, and grounding force
+7. Ceiling detection and velocity clamping
+8. Terminal velocity / max fall speed
 
 **Phase 2 - Forgiveness Systems**:
 1. Coyote time implementation
