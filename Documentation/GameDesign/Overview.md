@@ -114,6 +114,7 @@ The fundamental design principles that guide all decisions:
 ### Phase 1: Pre-production (Current)
 - [x] Finalize core game concept
 - [x] Create initial design documentation
+- [x] Design core movement and platforming mechanics
 - [ ] Prototype core movement and platforming
 - [ ] Prototype basic shooting mechanics
 - [ ] Establish visual art direction and test scenes
@@ -190,9 +191,9 @@ The fundamental design principles that guide all decisions:
 **Current Documentation**:
 - [[Bosses/BossOverview|Boss Design]] - Mercy-kill mechanics, boss concepts, Lament cutscenes
 - [[Systems/GameFeel|Game Feel]] - Visual/audio feedback techniques, juice and polish
+- [[Mechanics/PlayerMovement|Player Movement]] - Movement mechanics, platforming, advanced techniques
 
 **Future Documentation**:
-- [[Mechanics/PlayerMovement|Player Movement]] - Movement mechanics, coyote time, jump buffer
 - [[Mechanics/Combat|Combat System]] - Shooting, melee, magic abilities
 - [[Systems/CompanionAI|Companion System]] - Following AI, healing mechanics
 - [[Systems/HealthDamage|Health & Damage]] - Player/companion health, fail states
