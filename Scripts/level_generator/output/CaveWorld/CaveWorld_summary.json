@@ -1,0 +1,70 @@
+{
+  "world_name": "CaveWorld",
+  "level_count": 8,
+  "levels": [
+    {
+      "level_id": "CaveWorld_L01",
+      "difficulty": 1,
+      "shape": "horizontal_right",
+      "quality": 5.175,
+      "enemy_count": 1,
+      "obstacle_count": 1
+    },
+    {
+      "level_id": "CaveWorld_L02",
+      "difficulty": 2,
+      "shape": "horizontal_right",
+      "quality": 5.275,
+      "enemy_count": 1,
+      "obstacle_count": 2
+    },
+    {
+      "level_id": "CaveWorld_L03",
+      "difficulty": 3,
+      "shape": "horizontal_right",
+      "quality": 5.425,
+      "enemy_count": 1,
+      "obstacle_count": 2
+    },
+    {
+      "level_id": "CaveWorld_L04",
+      "difficulty": 4,
+      "shape": "horizontal_right",
+      "quality": 5.9,
+      "enemy_count": 0,
+      "obstacle_count": 17
+    },
+    {
+      "level_id": "CaveWorld_L05",
+      "difficulty": 6,
+      "shape": "horizontal_right",
+      "quality": 6.675,
+      "enemy_count": 6,
+      "obstacle_count": 25
+    },
+    {
+      "level_id": "CaveWorld_L06",
+      "difficulty": 7,
+      "shape": "horizontal_right",
+      "quality": 7.125,
+      "enemy_count": 4,
+      "obstacle_count": 28
+    },
+    {
+      "level_id": "CaveWorld_L07",
+      "difficulty": 8,
+      "shape": "horizontal_right",
+      "quality": 6.725,
+      "enemy_count": 15,
+      "obstacle_count": 62
+    },
+    {
+      "level_id": "CaveWorld_L08",
+      "difficulty": 10,
+      "shape": "horizontal_right",
+      "quality": 6.75,
+      "enemy_count": 0,
+      "obstacle_count": 85
+    }
+  ]
+}

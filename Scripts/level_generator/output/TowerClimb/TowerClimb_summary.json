@@ -1,0 +1,86 @@
+{
+  "world_name": "TowerClimb",
+  "level_count": 10,
+  "levels": [
+    {
+      "level_id": "TowerClimb_L01",
+      "difficulty": 1,
+      "shape": "horizontal_right",
+      "quality": 4.925,
+      "enemy_count": 0,
+      "obstacle_count": 1
+    },
+    {
+      "level_id": "TowerClimb_L02",
+      "difficulty": 2,
+      "shape": "box",
+      "quality": 5.775,
+      "enemy_count": 1,
+      "obstacle_count": 2
+    },
+    {
+      "level_id": "TowerClimb_L03",
+      "difficulty": 3,
+      "shape": "vertical_down",
+      "quality": 6.025,
+      "enemy_count": 1,
+      "obstacle_count": 3
+    },
+    {
+      "level_id": "TowerClimb_L04",
+      "difficulty": 4,
+      "shape": "vertical_down",
+      "quality": 6.025,
+      "enemy_count": 3,
+      "obstacle_count": 12
+    },
+    {
+      "level_id": "TowerClimb_L05",
+      "difficulty": 5,
+      "shape": "box",
+      "quality": 5.525,
+      "enemy_count": 4,
+      "obstacle_count": 16
+    },
+    {
+      "level_id": "TowerClimb_L06",
+      "difficulty": 6,
+      "shape": "box",
+      "quality": 5.775,
+      "enemy_count": 6,
+      "obstacle_count": 14
+    },
+    {
+      "level_id": "TowerClimb_L07",
+      "difficulty": 7,
+      "shape": "vertical_up",
+      "quality": 6.15,
+      "enemy_count": 7,
+      "obstacle_count": 22
+    },
+    {
+      "level_id": "TowerClimb_L08",
+      "difficulty": 8,
+      "shape": "vertical_up",
+      "quality": 6.05,
+      "enemy_count": 15,
+      "obstacle_count": 69
+    },
+    {
+      "level_id": "TowerClimb_L09",
+      "difficulty": 9,
+      "shape": "vertical_up",
+      "quality": 6.225,
+      "enemy_count": 8,
+      "obstacle_count": 76
+    },
+    {
+      "level_id": "TowerClimb_L10",
+      "difficulty": 10,
+      "shape": "vertical_up",
+      "quality": 6.225,
+      "enemy_count": 23,
+      "obstacle_count": 85
+    }
+  ]
+}

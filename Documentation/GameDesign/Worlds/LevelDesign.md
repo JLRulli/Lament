@@ -517,6 +517,330 @@ This document catalogs the mechanical building blocks for constructing levels in
 
 ---
 
+## Environmental Hazards & Platforming Elements - Complete Reference
+
+_This section provides comprehensive specifications for all environmental hazards and platforming gimmicks. Cross-referenced with [[Projects/LevelGenerationTool]] for implementation details._
+
+### Damage-Dealing Hazards
+
+#### Spikes (All Variations)
+
+**Behavior**: Contact damage on touch  
+**Variations**: 
+- Standard spikes (stone, metal)
+- Thorns (organic variant)
+- Drills (mechanical variant)
+- Jagged rocks (environmental variant)
+
+**Damage**: [TBD - standard damage value]  
+**I-Frame Interaction**: [TBD - can dash i-frames bypass?]  
+**Respawn Behavior**: Player takes damage, brief i-frames, continues from position  
+**Enemy Interaction**: [TBD - do spikes damage enemies or player-only?]
+
+**Visual Design**:
+- Clear, sharp, menacing appearance
+- Red/danger color tones
+- Variant-specific aesthetics (metal drills in industrial areas, thorns in organic areas)
+
+**Level Generator Reference**: Tile ID 4, obstacle type "spike", variants "spike_thorn", "spike_drill"
+
+**Design Intent**: Punish imprecise movement, create tension in tight spaces
+
+---
+
+#### Bottomless Pits/Gaps
+
+**Behavior**: Falling off bottom of screen → damage + teleport to prior safe ledge  
+**Damage**: [TBD - flat damage value]  
+**Safe Ledge Logic**: Last ground/platform position player stood on before falling  
+**Death Condition**: If damage kills player, no teleport (death state triggers)
+
+**Visual Design**:
+- Darkness/void below visible play area
+- Optional: Fog effects obscuring depth
+- Environmental variants (abyssal darkness, cloudy sky, lava glow from below)
+
+**Level Generator Reference**: Tile ID 5, special handling for safe ledge tracking
+
+**Design Intent**: Punish failed platforming without instant death, create risk in gap crossing
+
+**Design Questions**:
+- [ ] Damage amount? (e.g., 25% max health, flat 20 damage, etc.)
+- [ ] Teleport animation/transition time?
+- [ ] Can player be saved mid-fall with double jump or air dash?
+
+---
+
+#### Lava/Harmful Liquids
+
+**Behavior**: Contact damage while player is in liquid  
+**Damage Type**: [TBD - continuous per second or per tick?]  
+**Damage Rate**: [TBD - damage per second value]
+
+**Variations**:
+- Lava (volcanic areas)
+- Toxic water (sewers, swamps)
+- Acid (industrial, alchemical areas)
+- Corrupted liquid (No Man's Land)
+
+**Visual Design**:
+- Animated surface (bubbling lava, rippling toxic water)
+- Particle effects (steam, toxic gas, corruption wisps)
+- Danger color coding (orange/red for lava, green for toxic, purple for corrupted)
+
+**Level Generator Reference**: Tile ID 20, obstacle type "liquid_hazard", property "damage_per_sec"
+
+**Design Intent**: Area denial, time pressure in liquid sections
+
+**Design Questions**:
+- [ ] Can player swim or instant sink?
+- [ ] Brief i-frames on initial contact or continuous damage immediately?
+- [ ] Lingering damage effect after exiting liquid?
+
+---
+
+#### Crushing Mechanisms
+
+**Behavior**: Timed crushing objects that deal heavy damage on contact  
+**Damage**: [TBD - instant kill or heavy damage?]  
+**Cycle Pattern**: [TBD - warning time → crush → reset time]
+
+**Variations**:
+- Vertical presses (ceiling crushers)
+- Horizontal jaws (wall crushers)
+- Compactors (room-scale crushing)
+
+**Visual Design**:
+- Warning animation before activation (shaking, grinding sound)
+- Clear telegraph of danger zone
+- Industrial/mechanical aesthetic
+
+**Level Generator Reference**: Tile ID 21, obstacle type "crushing_mechanism", properties "damage", "cycle_time", "warning_time"
+
+**Design Intent**: Timing-based hazard, predictable but deadly
+
+**Design Questions**:
+- [ ] Instant kill or heavy damage (e.g., 50 damage)?
+- [ ] Warning duration before crush?
+- [ ] Crush duration (how long player must avoid)?
+- [ ] Can enemies be crushed?
+
+---
+
+#### Beam/Laser/Drill Hazards (Screen-Wide)
+
+**Behavior**: Screen-wide linear hazard (horizontal or vertical)  
+**Activation Pattern**: Warning animation → fills line with damage zone  
+**Warning Time**: [TBD - seconds before activation]  
+**Damage**: [TBD - damage on contact]  
+**Active Duration**: [TBD - how long beam stays active]
+
+**Variations**:
+- **Horizontal beams**: Left-to-right or right-to-left sweep
+- **Vertical beams**: Top-to-bottom or bottom-to-top sweep
+- **Stationary beams**: Activates in place, no sweep
+- **Moving beams**: Travels across screen at set speed
+
+**Visual Design**:
+- Warning indicators (floor/wall lights, alarm sounds)
+- Charging animation before activation
+- Bright, dangerous beam visual (laser, energy, drill line)
+
+**Level Generator Reference**: Tile IDs 22 (horizontal), 23 (vertical), obstacle type "beam_hazard", properties "warning_time", "active_duration", "damage"
+
+**Design Intent**: Large-scale hazard requiring repositioning, area denial
+
+**Design Questions**:
+- [ ] Warning duration (e.g., 1 second)?
+- [ ] Can player dash through with i-frames?
+- [ ] Beam sweep speed if moving variant?
+- [ ] Audio/visual telegraph clarity?
+
+---
+
+### Platforming Gimmicks
+
+#### Disappearing/Reappearing Platforms
+
+**Behavior**: 
+- Platform solid until player touches it
+- After [TBD] seconds, platform collapses/disappears
+- After [TBD] seconds collapsed, platform reappears
+
+**Collapse Delay**: [TBD - time after player contact before collapse]  
+**Respawn Delay**: [TBD - time before platform reappears]  
+**Coyote Time Interaction**: [TBD - does coyote time work after platform disappears?]
+
+**Visual Design**:
+- Warning telegraph before collapse (flashing, color change, shaking)
+- Disappearing animation (fade out, crumble)
+- Reappearing animation (fade in, materialize)
+
+**Level Generator Reference**: Obstacle type "disappearing_platform", properties "collapse_delay", "respawn_delay"
+
+**Design Intent**: Timing pressure, forces player movement, can't wait on platform
+
+**Design Questions**:
+- [ ] Collapse delay (e.g., 1 second after contact)?
+- [ ] Respawn delay (e.g., 2-3 seconds)?
+- [ ] Visual warning duration before collapse?
+- [ ] Can player trigger collapse without standing on it (e.g., dash through)?
+
+---
+
+#### Conveyor Belts/Moving Surfaces
+
+**Behavior**: Ground surface that alters player ground speed  
+**Speed Modifier**: [TBD - multiplier, e.g., 1.5x normal speed]  
+**Direction**: Left or right (or toward/away from camera in 2.5D sections)
+
+**Mechanics**:
+- Modifies ground movement speed while player on surface
+- Affects jump distance (momentum carries)
+- Can move toward hazards or off ledges (requires countermovement)
+
+**Visual Design**:
+- Animated texture (scrolling arrows, moving treads)
+- Direction indicators (arrows, tread direction)
+- Industrial aesthetic (factory belts, mechanical surfaces)
+
+**Level Generator Reference**: Tile ID 31, obstacle type "conveyor_belt", properties "speed_mult", "direction"
+
+**Design Intent**: Precision platforming with momentum management, combine with other hazards
+
+**Design Questions**:
+- [ ] Speed multiplier value (e.g., 1.5x = 50% faster)?
+- [ ] Does it affect air control after jumping off?
+- [ ] Can enemies be affected by conveyor belts?
+- [ ] Interaction with slide mechanic from [[Mechanics/PlayerMovement]]?
+
+---
+
+#### Ice Physics/Slippery Surfaces
+
+**Behavior**: Reduces friction, making movement slippery  
+**Friction Reduction**: [TBD - multiplier, e.g., 0.3 = 70% less friction]  
+**Affected Actions**: Ground movement, stopping, direction changes
+
+**Mechanics**:
+- Player slides when stopping (momentum continues)
+- Direction changes delayed/gradual
+- Jumps may have altered control
+- Slide mechanic potentially extended (see [[Mechanics/PlayerMovement]])
+
+**Visual Design**:
+- Icy, wet, or oily surface appearance
+- Reflective/shiny material
+- Particle effects (frost, water droplets, oil sheen)
+
+**Level Generator Reference**: Tile ID 32, obstacle type "ice_floor", property "friction_mult"
+
+**Design Intent**: Reduced control challenge, precise positioning harder
+
+**Design Questions**:
+- [ ] Friction reduction percentage?
+- [ ] Does it affect air control?
+- [ ] Interaction with slide mechanic (extends slide duration)?
+- [ ] Affects enemies or player-only?
+
+---
+
+#### Moving/Timed Platforms
+
+**Behavior**: Platforms that move along a set path  
+**Path Type**: Linear (horizontal/vertical), circular, waypoint-based  
+**Speed**: [TBD - units per second]  
+**Loop**: Continuous loop or back-and-forth
+
+**Mechanics**:
+- Player inherits platform velocity (relative motion)
+- Requires timing to jump on/off
+- Can combine with other hazards (moving platform over spikes)
+
+**Variations**:
+- **Horizontal movers**: Left-right motion
+- **Vertical movers**: Up-down motion
+- **Circular movers**: Rotating around point
+- **Waypoint movers**: Complex paths
+
+**Visual Design**:
+- Platform clearly distinct from static platforms
+- Optional: Direction indicators, movement trail effects
+
+**Level Generator Reference**: Tile ID 33, obstacle type "moving_platform", properties "path", "speed", "loop"
+
+**Design Intent**: Timing-based platforming, momentum management
+
+**Design Questions**:
+- [ ] Movement speed (pixels per second)?
+- [ ] Can platforms crush player against walls?
+- [ ] Fall-through (one-way) or solid?
+- [ ] Do enemies use moving platforms?
+
+---
+
+#### Destructible Blocks
+
+**Behavior**: Objects that can be destroyed by player attacks  
+**Health**: [TBD - number of hits to destroy]  
+**Attack Types**: Shooting, melee, or both?  
+**Respawn**: [TBD - permanent destruction or respawn after time?]
+
+**Mechanics**:
+- Block takes damage from player attacks
+- Breaks after sufficient damage
+- May block paths, hide secrets, or protect hazards
+- Can be used tactically (create paths, expose enemies)
+
+**Visual Design**:
+- Cracked/damaged appearance after taking hits
+- Breaking animation with debris
+- Distinct from indestructible walls (cracks, weaker material)
+
+**Level Generator Reference**: Tile ID 34, obstacle type "destructible_block", properties "health", "drops", "respawn_time"
+
+**Design Intent**: Player agency, path creation, optional challenges
+
+**Design Questions**:
+- [ ] How many hits to break? (e.g., 3 hits?)
+- [ ] Do they drop anything (resources, pickups)?
+- [ ] Permanent destruction or respawn after time?
+- [ ] Required for progression or optional paths only?
+- [ ] Can enemies destroy blocks?
+
+---
+
+### Hazard & Gimmick Combinations
+
+**Effective Combinations**:
+- **Disappearing Platforms + Spikes**: Timed platforming with punishment
+- **Conveyor Belts + Pits**: Momentum management to avoid falling
+- **Ice Floor + Enemies**: Reduced control during combat
+- **Moving Platforms + Beam Hazards**: Multi-layered timing challenge
+- **Crushing Mechanisms + Narrow Spaces**: Precision timing under pressure
+
+**Design Philosophy**:
+- Introduce hazards individually first
+- Combine hazards after player understands each individually
+- Limit combinations to 2-3 simultaneous hazards (avoid overwhelming)
+- Use combinations to create difficulty spikes
+
+---
+
+### Implementation Checklist
+
+**For Each Hazard/Gimmick**:
+- [ ] Finalize damage values
+- [ ] Define timing parameters (delays, durations, cycles)
+- [ ] Create visual telegraphs and feedback
+- [ ] Test with player movement mechanics (see [[Mechanics/PlayerMovement]])
+- [ ] Define enemy interaction rules
+- [ ] Add to Level Generator obstacle catalog (see [[Projects/LevelGenerationTool]])
+- [ ] Create UE5 assets and blueprints
+- [ ] Balance difficulty placement (which hazards at which difficulty levels)
+
+---
+
 ## Level Concepts & Encounter Designs
 
 _These are specific level/encounter ideas that combine interactables and obstacles into cohesive challenges._

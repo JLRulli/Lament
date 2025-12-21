@@ -1,0 +1,70 @@
+{
+  "world_name": "GentleSlopes",
+  "level_count": 8,
+  "levels": [
+    {
+      "level_id": "GentleSlopes_L01",
+      "difficulty": 1,
+      "shape": "horizontal_right",
+      "quality": 5.175,
+      "enemy_count": 0,
+      "obstacle_count": 1
+    },
+    {
+      "level_id": "GentleSlopes_L02",
+      "difficulty": 2,
+      "shape": "box",
+      "quality": 5.775,
+      "enemy_count": 1,
+      "obstacle_count": 2
+    },
+    {
+      "level_id": "GentleSlopes_L03",
+      "difficulty": 3,
+      "shape": "horizontal_right",
+      "quality": 5.525,
+      "enemy_count": 1,
+      "obstacle_count": 4
+    },
+    {
+      "level_id": "GentleSlopes_L04",
+      "difficulty": 4,
+      "shape": "box",
+      "quality": 5.525,
+      "enemy_count": 1,
+      "obstacle_count": 12
+    },
+    {
+      "level_id": "GentleSlopes_L05",
+      "difficulty": 6,
+      "shape": "box",
+      "quality": 5.775,
+      "enemy_count": 5,
+      "obstacle_count": 19
+    },
+    {
+      "level_id": "GentleSlopes_L06",
+      "difficulty": 7,
+      "shape": "box",
+      "quality": 5.525,
+      "enemy_count": 7,
+      "obstacle_count": 20
+    },
+    {
+      "level_id": "GentleSlopes_L07",
+      "difficulty": 8,
+      "shape": "box",
+      "quality": 5.775,
+      "enemy_count": 0,
+      "obstacle_count": 52
+    },
+    {
+      "level_id": "GentleSlopes_L08",
+      "difficulty": 10,
+      "shape": "box",
+      "quality": 5.775,
+      "enemy_count": 14,
+      "obstacle_count": 72
+    }
+  ]
+}

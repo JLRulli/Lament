@@ -1,0 +1,62 @@
+{
+  "world_name": "GauntletRun",
+  "level_count": 7,
+  "levels": [
+    {
+      "level_id": "GauntletRun_L01",
+      "difficulty": 1,
+      "shape": "horizontal_right",
+      "quality": 3.625,
+      "enemy_count": 1,
+      "obstacle_count": 1
+    },
+    {
+      "level_id": "GauntletRun_L02",
+      "difficulty": 2,
+      "shape": "horizontal_right",
+      "quality": 5.4,
+      "enemy_count": 1,
+      "obstacle_count": 1
+    },
+    {
+      "level_id": "GauntletRun_L03",
+      "difficulty": 4,
+      "shape": "horizontal_right",
+      "quality": 6.55,
+      "enemy_count": 1,
+      "obstacle_count": 11
+    },
+    {
+      "level_id": "GauntletRun_L04",
+      "difficulty": 7,
+      "shape": "horizontal_right",
+      "quality": 6.1,
+      "enemy_count": 0,
+      "obstacle_count": 20
+    },
+    {
+      "level_id": "GauntletRun_L05",
+      "difficulty": 9,
+      "shape": "horizontal_right",
+      "quality": 6.475,
+      "enemy_count": 8,
+      "obstacle_count": 57
+    },
+    {
+      "level_id": "GauntletRun_L06",
+      "difficulty": 8,
+      "shape": "box",
+      "quality": 5.775,
+      "enemy_count": 10,
+      "obstacle_count": 44
+    },
+    {
+      "level_id": "GauntletRun_L07",
+      "difficulty": 5,
+      "shape": "box",
+      "quality": 5.525,
+      "enemy_count": 4,
+      "obstacle_count": 16
+    }
+  ]
+}

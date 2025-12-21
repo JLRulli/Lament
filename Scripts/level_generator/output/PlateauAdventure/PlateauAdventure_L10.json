@@ -1,0 +1,1530 @@
+{
+  "version": "1.0",
+  "generated_by": "level_generator_week4",
+  "metadata": {
+    "id": "a2442ef4",
+    "shape_type": "horizontal_right",
+    "width": 48,
+    "height": 18,
+    "difficulty": 9,
+    "size_category": "medium",
+    "features": []
+  },
+  "tilemap": {
+    "width": 48,
+    "height": 18,
+    "tiles": [
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        10,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        10,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        12,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        12,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        1,
+        1,
+        1,
+        1,
+        1,
+        4,
+        4,
+        1,
+        1,
+        1,
+        4,
+        4,
+        1,
+        1,
+        1,
+        1,
+        4,
+        4,
+        1,
+        4,
+        4,
+        4,
+        1,
+        1,
+        1,
+        1,
+        2
+      ]
+    ],
+    "tile_legend": {
+      "0": "empty",
+      "1": "ground",
+      "2": "wall",
+      "3": "platform_oneway",
+      "4": "spike",
+      "5": "pit",
+      "10": "slope_up_right",
+      "11": "slope_up_left",
+      "12": "slope_down_right",
+      "13": "slope_down_left"
+    },
+    "coordinate_system": "Y=0 is TOP, Y=height-1 is BOTTOM"
+  },
+  "validation": {
+    "valid": false,
+    "tier": "IMPOSSIBLE",
+    "path_length": 0,
+    "spike_count": 21,
+    "platform_count": 21,
+    "floor_coverage": 0.0
+  },
+  "quality": {
+    "overall": 6.33,
+    "playability": 0,
+    "challenge": 0,
+    "variety": 9.0
+  },
+  "spawn_zones": {
+    "enemies": [],
+    "obstacles": [
+      {
+        "id": "slot_0",
+        "position": {
+          "x": 13,
+          "y": 9
+        },
+        "allowed_types": [
+          "spike",
+          "moving_platform",
+          "drill"
+        ]
+      },
+      {
+        "id": "slot_1",
+        "position": {
+          "x": 11,
+          "y": 12
+        },
+        "allowed_types": [
+          "spike",
+          "moving_platform",
+          "drill"
+        ]
+      },
+      {
+        "id": "slot_2",
+        "position": {
+          "x": 9,
+          "y": 12
+        },
+        "allowed_types": [
+          "spike",
+          "moving_platform",
+          "drill"
+        ]
+      },
+      {
+        "id": "slot_3",
+        "position": {
+          "x": 43,
+          "y": 13
+        },
+        "allowed_types": [
+          "spike",
+          "moving_platform",
+          "drill"
+        ]
+      }
+    ]
+  },
+  "connections": {
+    "entrance": {
+      "position": {
+        "x": 0,
+        "y": 15
+      },
+      "direction": "left",
+      "type": "door"
+    },
+    "exit": {
+      "position": {
+        "x": 47,
+        "y": 12
+      },
+      "direction": "right",
+      "type": "door"
+    }
+  },
+  "entities": {
+    "enemies": [],
+    "obstacles": [
+      {
+        "type": "spike",
+        "position": {
+          "x": 9,
+          "y": 10
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 39,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 45,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 31,
+          "y": 8
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 8,
+          "y": 15
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 32,
+          "y": 8
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 4,
+          "y": 15
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 35,
+          "y": 12
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 43,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 25,
+          "y": 4
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 3,
+          "y": 15
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 17,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 3,
+          "y": 15
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 43,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 23,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 9,
+          "y": 15
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 46,
+          "y": 12
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 5,
+          "y": 15
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 23,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 1,
+          "y": 15
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 29,
+          "y": 8
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 25,
+          "y": 12
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 40,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 34,
+          "y": 12
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 26,
+          "y": 4
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 4,
+          "y": 15
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 38,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 12,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 6,
+          "y": 15
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 9,
+          "y": 10
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 36,
+          "y": 12
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 32,
+          "y": 8
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 30,
+          "y": 8
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 4,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 9,
+          "y": 10
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 15,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 45,
+          "y": 12
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 31,
+          "y": 8
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 25,
+          "y": 4
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 30,
+          "y": 12
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 14,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 39,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 28,
+          "y": 12
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 32,
+          "y": 8
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 36,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      }
+    ],
+    "save_point": null
+  },
+  "level_info": {
+    "level_id": "PlateauAdventure_L10",
+    "stats": {
+      "difficulty": 9,
+      "shape": "horizontal_right",
+      "size": "long",
+      "quality_score": 6.325,
+      "enemy_count": 0,
+      "obstacle_count": 45,
+      "has_save_point": false
+    }
+  }
+}

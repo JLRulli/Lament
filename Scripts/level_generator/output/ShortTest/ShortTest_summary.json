@@ -1,0 +1,30 @@
+{
+  "world_name": "ShortTest",
+  "level_count": 3,
+  "levels": [
+    {
+      "level_id": "ShortTest_L01",
+      "difficulty": 1,
+      "shape": "horizontal_right",
+      "quality": 5.425,
+      "enemy_count": 1,
+      "obstacle_count": 1
+    },
+    {
+      "level_id": "ShortTest_L02",
+      "difficulty": 5,
+      "shape": "box",
+      "quality": 5.525,
+      "enemy_count": 3,
+      "obstacle_count": 15
+    },
+    {
+      "level_id": "ShortTest_L03",
+      "difficulty": 10,
+      "shape": "horizontal_right",
+      "quality": 7.25,
+      "enemy_count": 15,
+      "obstacle_count": 81
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "world_name": "SpikeTest",
+  "level_count": 8,
+  "levels": [
+    {
+      "level_id": "SpikeTest_L01",
+      "difficulty": 1,
+      "shape": "horizontal_right",
+      "quality": 3.625,
+      "enemy_count": 1,
+      "obstacle_count": 1
+    },
+    {
+      "level_id": "SpikeTest_L02",
+      "difficulty": 2,
+      "shape": "box",
+      "quality": 5.775,
+      "enemy_count": 1,
+      "obstacle_count": 2
+    },
+    {
+      "level_id": "SpikeTest_L03",
+      "difficulty": 3,
+      "shape": "box",
+      "quality": 5.775,
+      "enemy_count": 1,
+      "obstacle_count": 3
+    },
+    {
+      "level_id": "SpikeTest_L04",
+      "difficulty": 5,
+      "shape": "horizontal_right",
+      "quality": 6.55,
+      "enemy_count": 6,
+      "obstacle_count": 14
+    },
+    {
+      "level_id": "SpikeTest_L05",
+      "difficulty": 8,
+      "shape": "horizontal_right",
+      "quality": 6.475,
+      "enemy_count": 11,
+      "obstacle_count": 51
+    },
+    {
+      "level_id": "SpikeTest_L06",
+      "difficulty": 10,
+      "shape": "horizontal_right",
+      "quality": 6.85,
+      "enemy_count": 14,
+      "obstacle_count": 52
+    },
+    {
+      "level_id": "SpikeTest_L07",
+      "difficulty": 8,
+      "shape": "horizontal_right",
+      "quality": 6.475,
+      "enemy_count": 15,
+      "obstacle_count": 44
+    },
+    {
+      "level_id": "SpikeTest_L08",
+      "difficulty": 5,
+      "shape": "horizontal_right",
+      "quality": 6.5,
+      "enemy_count": 0,
+      "obstacle_count": 14
+    }
+  ]
+}

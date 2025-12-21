@@ -1,0 +1,46 @@
+{
+  "world_name": "ChaoticTerrain",
+  "level_count": 5,
+  "levels": [
+    {
+      "level_id": "ChaoticTerrain_L01",
+      "difficulty": 1,
+      "shape": "horizontal_right",
+      "quality": 5.175,
+      "enemy_count": 0,
+      "obstacle_count": 1
+    },
+    {
+      "level_id": "ChaoticTerrain_L02",
+      "difficulty": 3,
+      "shape": "horizontal_right",
+      "quality": 5.4,
+      "enemy_count": 0,
+      "obstacle_count": 2
+    },
+    {
+      "level_id": "ChaoticTerrain_L03",
+      "difficulty": 7,
+      "shape": "box",
+      "quality": 5.525,
+      "enemy_count": 7,
+      "obstacle_count": 20
+    },
+    {
+      "level_id": "ChaoticTerrain_L04",
+      "difficulty": 10,
+      "shape": "box",
+      "quality": 5.775,
+      "enemy_count": 16,
+      "obstacle_count": 72
+    },
+    {
+      "level_id": "ChaoticTerrain_L05",
+      "difficulty": 5,
+      "shape": "horizontal_right",
+      "quality": 5.9,
+      "enemy_count": 6,
+      "obstacle_count": 21
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "MinimalChallenge",
+  "description": "Pure platforming with minimal enemies, focus on precision",
+  "level_count": 6,
+  "difficulty_curve": "linear",
+  "horizontal_vertical_ratio": 0.6,
+  "slope_count": 3,
+  "max_elevation_change": 8,
+  "enemy_theme": "sparse",
+  "obstacle_themes": [
+    "platforming",
+    "minimal"
+  ],
+  "save_point_frequency": 4,
+  "quality_attempts": 5,
+  "tags": [
+    "platforming",
+    "precision",
+    "intermediate"
+  ]
+}

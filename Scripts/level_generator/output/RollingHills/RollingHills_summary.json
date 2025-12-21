@@ -1,0 +1,54 @@
+{
+  "world_name": "RollingHills",
+  "level_count": 6,
+  "levels": [
+    {
+      "level_id": "RollingHills_L01",
+      "difficulty": 1,
+      "shape": "horizontal_right",
+      "quality": 5.175,
+      "enemy_count": 0,
+      "obstacle_count": 1
+    },
+    {
+      "level_id": "RollingHills_L02",
+      "difficulty": 2,
+      "shape": "box",
+      "quality": 5.775,
+      "enemy_count": 1,
+      "obstacle_count": 2
+    },
+    {
+      "level_id": "RollingHills_L03",
+      "difficulty": 4,
+      "shape": "box",
+      "quality": 5.525,
+      "enemy_count": 3,
+      "obstacle_count": 11
+    },
+    {
+      "level_id": "RollingHills_L04",
+      "difficulty": 6,
+      "shape": "box",
+      "quality": 5.775,
+      "enemy_count": 7,
+      "obstacle_count": 19
+    },
+    {
+      "level_id": "RollingHills_L05",
+      "difficulty": 8,
+      "shape": "horizontal_left",
+      "quality": 7.375,
+      "enemy_count": 7,
+      "obstacle_count": 69
+    },
+    {
+      "level_id": "RollingHills_L06",
+      "difficulty": 10,
+      "shape": "box",
+      "quality": 5.525,
+      "enemy_count": 19,
+      "obstacle_count": 59
+    }
+  ]
+}

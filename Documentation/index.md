@@ -12,10 +12,12 @@ Welcome to the Lament project documentation. This Obsidian vault contains all ga
 - [[Overview]] - Game concept, pillars, and vision
 - [[Mechanics/README|Mechanics]] - Gameplay mechanics documentation
 - [[Systems/README|Systems]] - Game systems (combat, inventory, progression, etc.)
+- [[Art/README|Art]] - Visual style, pipelines, and asset creation workflows
 - [[Narrative/README|Narrative]] - Story, lore, characters, world-building
 - [[Technical/README|Technical]] - Technical design decisions and architecture
 
 ### Projects & Tools
+- [[Projects/LevelGenerationTool|Level Generation Tool]] - Procedural level generator for linear 2D platformer levels
 - [[Projects/README|Active Projects]] - Mini-project planning and tracking
 
 ### Reference
@@ -31,6 +33,7 @@ Documentation/
 │   ├── Overview.md       # Start here for project overview
 │   ├── Mechanics/        # Gameplay mechanics details
 │   ├── Systems/          # Game systems design
+│   ├── Art/              # Visual style and asset pipelines
 │   ├── Narrative/        # Story and world-building
 │   └── Technical/        # Technical design docs
 ├── Projects/             # Planning docs for scripts/tools
@@ -48,6 +51,7 @@ Documentation/
 3. Explore relevant sections based on your role:
    - **Programmers**: Technical/, Systems/, Mechanics/
    - **Designers**: Mechanics/, Systems/, Narrative/
+   - **Artists**: Art/
    - **Writers**: Narrative/
    - **Tool Developers**: Projects/
 
@@ -84,6 +88,8 @@ Documentation/
 
 _This section tracks major documentation updates. Update when making significant changes._
 
+- **2025-12-20**: Level Generation Tool comprehensive planning documentation added
+- **2025-12-19**: Art direction documentation added (pipelines, materials, lighting, post-processing, color palettes)
 - **2025-12-17**: World concepts and level design documentation added
 - **2025-12-17**: Player Movement mechanics documentation completed
 - **2025-12-16**: Initial documentation structure created

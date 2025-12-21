@@ -1,0 +1,46 @@
+{
+  "world_name": "FlatPlains",
+  "level_count": 5,
+  "levels": [
+    {
+      "level_id": "FlatPlains_L01",
+      "difficulty": 1,
+      "shape": "horizontal_right",
+      "quality": 3.625,
+      "enemy_count": 1,
+      "obstacle_count": 1
+    },
+    {
+      "level_id": "FlatPlains_L02",
+      "difficulty": 3,
+      "shape": "box",
+      "quality": 5.775,
+      "enemy_count": 1,
+      "obstacle_count": 2
+    },
+    {
+      "level_id": "FlatPlains_L03",
+      "difficulty": 5,
+      "shape": "box",
+      "quality": 5.525,
+      "enemy_count": 4,
+      "obstacle_count": 12
+    },
+    {
+      "level_id": "FlatPlains_L04",
+      "difficulty": 7,
+      "shape": "box",
+      "quality": 5.525,
+      "enemy_count": 8,
+      "obstacle_count": 22
+    },
+    {
+      "level_id": "FlatPlains_L05",
+      "difficulty": 10,
+      "shape": "vertical_down",
+      "quality": 6.225,
+      "enemy_count": 23,
+      "obstacle_count": 85
+    }
+  ]
+}

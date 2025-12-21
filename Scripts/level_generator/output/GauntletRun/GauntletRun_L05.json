@@ -1,0 +1,1876 @@
+{
+  "version": "1.0",
+  "generated_by": "level_generator_week4",
+  "metadata": {
+    "id": "8c11fbb3",
+    "shape_type": "horizontal_right",
+    "width": 48,
+    "height": 18,
+    "difficulty": 9,
+    "size_category": "medium",
+    "features": []
+  },
+  "tilemap": {
+    "width": 48,
+    "height": 18,
+    "tiles": [
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        10,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        10,
+        1,
+        10,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        10,
+        1,
+        1,
+        1,
+        12,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        10,
+        1,
+        1,
+        1,
+        1,
+        1,
+        12,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        10,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        12,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        4,
+        4,
+        4,
+        1,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        4,
+        4,
+        1,
+        1,
+        1,
+        1,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        1,
+        1,
+        1,
+        2
+      ]
+    ],
+    "tile_legend": {
+      "0": "empty",
+      "1": "ground",
+      "2": "wall",
+      "3": "platform_oneway",
+      "4": "spike",
+      "5": "pit",
+      "10": "slope_up_right",
+      "11": "slope_up_left",
+      "12": "slope_down_right",
+      "13": "slope_down_left"
+    },
+    "coordinate_system": "Y=0 is TOP, Y=height-1 is BOTTOM"
+  },
+  "validation": {
+    "valid": false,
+    "tier": "IMPOSSIBLE",
+    "path_length": 0,
+    "spike_count": 21,
+    "platform_count": 16,
+    "floor_coverage": 0.0
+  },
+  "quality": {
+    "overall": 6.47,
+    "playability": 0,
+    "challenge": 0,
+    "variety": 9.0
+  },
+  "spawn_zones": {
+    "enemies": [
+      {
+        "id": "zone_0",
+        "position": {
+          "x": 33,
+          "y": 9
+        },
+        "type": "ground",
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_walker"
+        ]
+      },
+      {
+        "id": "zone_1",
+        "position": {
+          "x": 29,
+          "y": 15
+        },
+        "type": "ground",
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_walker"
+        ]
+      }
+    ],
+    "obstacles": [
+      {
+        "id": "slot_0",
+        "position": {
+          "x": 34,
+          "y": 16
+        },
+        "allowed_types": [
+          "spike",
+          "moving_platform",
+          "drill"
+        ]
+      },
+      {
+        "id": "slot_1",
+        "position": {
+          "x": 38,
+          "y": 11
+        },
+        "allowed_types": [
+          "spike",
+          "moving_platform",
+          "drill"
+        ]
+      },
+      {
+        "id": "slot_2",
+        "position": {
+          "x": 41,
+          "y": 9
+        },
+        "allowed_types": [
+          "spike",
+          "moving_platform",
+          "drill"
+        ]
+      },
+      {
+        "id": "slot_3",
+        "position": {
+          "x": 34,
+          "y": 12
+        },
+        "allowed_types": [
+          "spike",
+          "moving_platform",
+          "drill"
+        ]
+      }
+    ]
+  },
+  "connections": {
+    "entrance": {
+      "position": {
+        "x": 0,
+        "y": 15
+      },
+      "direction": "left",
+      "type": "door"
+    },
+    "exit": {
+      "position": {
+        "x": 47,
+        "y": 14
+      },
+      "direction": "right",
+      "type": "door"
+    }
+  },
+  "entities": {
+    "enemies": [
+      {
+        "type": "medium_walker",
+        "position": {
+          "x": 33,
+          "y": 9
+        },
+        "zone_id": "zone_0",
+        "properties": {
+          "threat_level": 3,
+          "movement": "ground",
+          "spawn_zone_type": "ground"
+        }
+      },
+      {
+        "type": "light_walker",
+        "position": {
+          "x": 29,
+          "y": 15
+        },
+        "zone_id": "zone_1",
+        "properties": {
+          "threat_level": 1,
+          "movement": "ground",
+          "spawn_zone_type": "ground"
+        }
+      },
+      {
+        "type": "medium_walker",
+        "position": {
+          "x": 29,
+          "y": 15
+        },
+        "zone_id": "zone_1",
+        "properties": {
+          "threat_level": 3,
+          "movement": "ground",
+          "spawn_zone_type": "ground"
+        }
+      },
+      {
+        "type": "medium_walker",
+        "position": {
+          "x": 29,
+          "y": 15
+        },
+        "zone_id": "zone_1",
+        "properties": {
+          "threat_level": 3,
+          "movement": "ground",
+          "spawn_zone_type": "ground"
+        }
+      },
+      {
+        "type": "medium_walker",
+        "position": {
+          "x": 33,
+          "y": 9
+        },
+        "zone_id": "zone_0",
+        "properties": {
+          "threat_level": 3,
+          "movement": "ground",
+          "spawn_zone_type": "ground"
+        }
+      },
+      {
+        "type": "medium_walker",
+        "position": {
+          "x": 29,
+          "y": 15
+        },
+        "zone_id": "zone_1",
+        "properties": {
+          "threat_level": 3,
+          "movement": "ground",
+          "spawn_zone_type": "ground"
+        }
+      },
+      {
+        "type": "medium_walker",
+        "position": {
+          "x": 29,
+          "y": 15
+        },
+        "zone_id": "zone_1",
+        "properties": {
+          "threat_level": 3,
+          "movement": "ground",
+          "spawn_zone_type": "ground"
+        }
+      },
+      {
+        "type": "medium_walker",
+        "position": {
+          "x": 33,
+          "y": 9
+        },
+        "zone_id": "zone_0",
+        "properties": {
+          "threat_level": 3,
+          "movement": "ground",
+          "spawn_zone_type": "ground"
+        }
+      }
+    ],
+    "obstacles": [
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 20,
+          "y": 12
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 35,
+          "y": 14
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 29,
+          "y": 12
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "disappearing_platform",
+        "position": {
+          "x": 33,
+          "y": 9
+        },
+        "properties": {
+          "on_time": 2.0,
+          "off_time": 1.5
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "disappearing_platform",
+        "position": {
+          "x": 20,
+          "y": 12
+        },
+        "properties": {
+          "on_time": 2.0,
+          "off_time": 1.5
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 36,
+          "y": 11
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 32,
+          "y": 7
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "disappearing_platform",
+        "position": {
+          "x": 28,
+          "y": 10
+        },
+        "properties": {
+          "on_time": 2.0,
+          "off_time": 1.5
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "disappearing_platform",
+        "position": {
+          "x": 34,
+          "y": 11
+        },
+        "properties": {
+          "on_time": 2.0,
+          "off_time": 1.5
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 32,
+          "y": 9
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 34,
+          "y": 9
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 34,
+          "y": 14
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 36,
+          "y": 12
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "disappearing_platform",
+        "position": {
+          "x": 24,
+          "y": 12
+        },
+        "properties": {
+          "on_time": 2.0,
+          "off_time": 1.5
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "disappearing_platform",
+        "position": {
+          "x": 26,
+          "y": 8
+        },
+        "properties": {
+          "on_time": 2.0,
+          "off_time": 1.5
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 36,
+          "y": 4
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 34,
+          "y": 12
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 5,
+          "y": 15
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 28,
+          "y": 10
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 33,
+          "y": 9
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 30,
+          "y": 6
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "disappearing_platform",
+        "position": {
+          "x": 26,
+          "y": 9
+        },
+        "properties": {
+          "on_time": 2.0,
+          "off_time": 1.5
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "disappearing_platform",
+        "position": {
+          "x": 26,
+          "y": 8
+        },
+        "properties": {
+          "on_time": 2.0,
+          "off_time": 1.5
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 25,
+          "y": 10
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 36,
+          "y": 14
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 36,
+          "y": 12
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 32,
+          "y": 7
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "disappearing_platform",
+        "position": {
+          "x": 33,
+          "y": 6
+        },
+        "properties": {
+          "on_time": 2.0,
+          "off_time": 1.5
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 36,
+          "y": 11
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "disappearing_platform",
+        "position": {
+          "x": 33,
+          "y": 6
+        },
+        "properties": {
+          "on_time": 2.0,
+          "off_time": 1.5
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 36,
+          "y": 14
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "disappearing_platform",
+        "position": {
+          "x": 33,
+          "y": 8
+        },
+        "properties": {
+          "on_time": 2.0,
+          "off_time": 1.5
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "disappearing_platform",
+        "position": {
+          "x": 24,
+          "y": 10
+        },
+        "properties": {
+          "on_time": 2.0,
+          "off_time": 1.5
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 25,
+          "y": 9
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "disappearing_platform",
+        "position": {
+          "x": 34,
+          "y": 6
+        },
+        "properties": {
+          "on_time": 2.0,
+          "off_time": 1.5
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 20,
+          "y": 15
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "disappearing_platform",
+        "position": {
+          "x": 27,
+          "y": 9
+        },
+        "properties": {
+          "on_time": 2.0,
+          "off_time": 1.5
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "disappearing_platform",
+        "position": {
+          "x": 26,
+          "y": 10
+        },
+        "properties": {
+          "on_time": 2.0,
+          "off_time": 1.5
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "disappearing_platform",
+        "position": {
+          "x": 3,
+          "y": 12
+        },
+        "properties": {
+          "on_time": 2.0,
+          "off_time": 1.5
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 26,
+          "y": 8
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 12,
+          "y": 6
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 44,
+          "y": 11
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 32,
+          "y": 7
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 34,
+          "y": 9
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 26,
+          "y": 8
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 28,
+          "y": 11
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "disappearing_platform",
+        "position": {
+          "x": 33,
+          "y": 8
+        },
+        "properties": {
+          "on_time": 2.0,
+          "off_time": 1.5
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 37,
+          "y": 4
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "disappearing_platform",
+        "position": {
+          "x": 23,
+          "y": 11
+        },
+        "properties": {
+          "on_time": 2.0,
+          "off_time": 1.5
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 34,
+          "y": 11
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 24,
+          "y": 10
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 31,
+          "y": 7
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "disappearing_platform",
+        "position": {
+          "x": 44,
+          "y": 12
+        },
+        "properties": {
+          "on_time": 2.0,
+          "off_time": 1.5
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 36,
+          "y": 12
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "disappearing_platform",
+        "position": {
+          "x": 19,
+          "y": 12
+        },
+        "properties": {
+          "on_time": 2.0,
+          "off_time": 1.5
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 31,
+          "y": 7
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      },
+      {
+        "type": "moving_platform",
+        "position": {
+          "x": 30,
+          "y": 8
+        },
+        "properties": {
+          "speed": "medium",
+          "pattern": "horizontal"
+        },
+        "category": "platform",
+        "threat_level": 2
+      }
+    ],
+    "save_point": null
+  },
+  "level_info": {
+    "level_id": "GauntletRun_L05",
+    "stats": {
+      "difficulty": 9,
+      "shape": "horizontal_right",
+      "size": "long",
+      "quality_score": 6.475,
+      "enemy_count": 8,
+      "obstacle_count": 57,
+      "has_save_point": false
+    }
+  }
+}

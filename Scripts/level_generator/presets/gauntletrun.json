@@ -1,0 +1,21 @@
+{
+  "name": "GauntletRun",
+  "description": "Intense combat-focused challenge with difficulty spikes",
+  "level_count": 7,
+  "difficulty_curve": "spike",
+  "horizontal_vertical_ratio": 0.4,
+  "slope_count": 3,
+  "max_elevation_change": 8,
+  "enemy_theme": "aggressive",
+  "obstacle_themes": [
+    "combat",
+    "hazards"
+  ],
+  "save_point_frequency": 2,
+  "quality_attempts": 5,
+  "tags": [
+    "combat",
+    "challenge",
+    "advanced"
+  ]
+}

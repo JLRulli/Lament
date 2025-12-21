@@ -1,0 +1,21 @@
+{
+  "name": "CaveWorld",
+  "description": "Horizontal cave exploration with gradual difficulty increase",
+  "level_count": 8,
+  "difficulty_curve": "linear",
+  "horizontal_vertical_ratio": 0.2,
+  "slope_count": 3,
+  "max_elevation_change": 8,
+  "enemy_theme": "balanced",
+  "obstacle_themes": [
+    "hazards",
+    "platforming"
+  ],
+  "save_point_frequency": 3,
+  "quality_attempts": 5,
+  "tags": [
+    "beginner",
+    "horizontal",
+    "exploration"
+  ]
+}

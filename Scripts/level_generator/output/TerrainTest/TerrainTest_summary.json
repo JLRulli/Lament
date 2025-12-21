@@ -1,0 +1,54 @@
+{
+  "world_name": "TerrainTest",
+  "level_count": 6,
+  "levels": [
+    {
+      "level_id": "TerrainTest_L01",
+      "difficulty": 1,
+      "shape": "horizontal_right",
+      "quality": 4.375,
+      "enemy_count": 1,
+      "obstacle_count": 1
+    },
+    {
+      "level_id": "TerrainTest_L02",
+      "difficulty": 2,
+      "shape": "box",
+      "quality": 5.775,
+      "enemy_count": 1,
+      "obstacle_count": 2
+    },
+    {
+      "level_id": "TerrainTest_L03",
+      "difficulty": 4,
+      "shape": "vertical_down",
+      "quality": 6.55,
+      "enemy_count": 3,
+      "obstacle_count": 12
+    },
+    {
+      "level_id": "TerrainTest_L04",
+      "difficulty": 6,
+      "shape": "box",
+      "quality": 6.025,
+      "enemy_count": 3,
+      "obstacle_count": 19
+    },
+    {
+      "level_id": "TerrainTest_L05",
+      "difficulty": 8,
+      "shape": "box",
+      "quality": 5.775,
+      "enemy_count": 12,
+      "obstacle_count": 57
+    },
+    {
+      "level_id": "TerrainTest_L06",
+      "difficulty": 10,
+      "shape": "horizontal_right",
+      "quality": 6.1,
+      "enemy_count": 23,
+      "obstacle_count": 48
+    }
+  ]
+}

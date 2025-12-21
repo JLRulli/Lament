@@ -1,0 +1,76 @@
+{
+  "timestamp": "2025-12-20T20:16:50.169649",
+  "total_time": 1.13,
+  "world_count": 6,
+  "total_levels": 46,
+  "total_enemies": 266,
+  "total_obstacles": 1134,
+  "worlds": [
+    {
+      "preset_name": "CaveWorld",
+      "level_count": 8,
+      "total_enemies": 44,
+      "total_obstacles": 173,
+      "total_save_points": 3,
+      "avg_quality": 5.9,
+      "generation_time": 0.05,
+      "output_dir": "output/CaveWorld",
+      "files_generated": 10
+    },
+    {
+      "preset_name": "GauntletRun",
+      "level_count": 7,
+      "total_enemies": 36,
+      "total_obstacles": 176,
+      "total_save_points": 3,
+      "avg_quality": 6.28,
+      "generation_time": 0.03,
+      "output_dir": "output/GauntletRun",
+      "files_generated": 9
+    },
+    {
+      "preset_name": "MinimalChallenge",
+      "level_count": 6,
+      "total_enemies": 48,
+      "total_obstacles": 145,
+      "total_save_points": 3,
+      "avg_quality": 5.91,
+      "generation_time": 0.04,
+      "output_dir": "output/MinimalChallenge",
+      "files_generated": 8
+    },
+    {
+      "preset_name": "PlateauAdventure",
+      "level_count": 12,
+      "total_enemies": 68,
+      "total_obstacles": 289,
+      "total_save_points": 5,
+      "avg_quality": 6.01,
+      "generation_time": 0.08,
+      "output_dir": "output/PlateauAdventure",
+      "files_generated": 14
+    },
+    {
+      "preset_name": "ShortTest",
+      "level_count": 3,
+      "total_enemies": 17,
+      "total_obstacles": 97,
+      "total_save_points": 2,
+      "avg_quality": 6.05,
+      "generation_time": 0.04,
+      "output_dir": "output/ShortTest",
+      "files_generated": 5
+    },
+    {
+      "preset_name": "TowerClimb",
+      "level_count": 10,
+      "total_enemies": 53,
+      "total_obstacles": 254,
+      "total_save_points": 4,
+      "avg_quality": 6.04,
+      "generation_time": 0.08,
+      "output_dir": "output/TowerClimb",
+      "files_generated": 12
+    }
+  ]
+}

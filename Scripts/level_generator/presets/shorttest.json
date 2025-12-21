@@ -1,0 +1,20 @@
+{
+  "name": "ShortTest",
+  "description": "Quick 3-level test world for rapid iteration",
+  "level_count": 3,
+  "difficulty_curve": "linear",
+  "horizontal_vertical_ratio": 0.3,
+  "slope_count": 3,
+  "max_elevation_change": 8,
+  "enemy_theme": "balanced",
+  "obstacle_themes": [
+    "mixed"
+  ],
+  "save_point_frequency": 2,
+  "quality_attempts": 3,
+  "tags": [
+    "test",
+    "quick",
+    "development"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PlateauAdventure",
+  "description": "Mixed exploration with difficulty plateaus for learning",
+  "level_count": 12,
+  "difficulty_curve": "plateau",
+  "horizontal_vertical_ratio": 0.5,
+  "slope_count": 3,
+  "max_elevation_change": 8,
+  "enemy_theme": "balanced",
+  "obstacle_themes": [
+    "mixed",
+    "platforming"
+  ],
+  "save_point_frequency": 3,
+  "quality_attempts": 5,
+  "tags": [
+    "beginner",
+    "mixed",
+    "learning"
+  ]
+}

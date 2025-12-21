@@ -1,0 +1,1107 @@
+{
+  "total": 50,
+  "statistics": {
+    "total": 50,
+    "by_tier": {
+      "NORMAL": 26,
+      "HARD": 20,
+      "EASY": 4
+    },
+    "by_shape": {
+      "horizontal_right": 9,
+      "vertical_up": 35,
+      "box": 6
+    },
+    "avg_quality": 6.02,
+    "quality_distribution": {
+      "exceptional (8.0+)": 0,
+      "high (7.0-7.9)": 0,
+      "good (6.0-6.9)": 32,
+      "acceptable (5.0-5.9)": 18,
+      "poor (<5.0)": 0
+    }
+  },
+  "templates": [
+    {
+      "id": "89ec19eb",
+      "shape": "horizontal_right",
+      "dimensions": {
+        "width": 20,
+        "height": 18
+      },
+      "tier": "NORMAL",
+      "quality": 6.55,
+      "tags": [
+        "shape_horizontal_right",
+        "tier_normal",
+        "beginner_friendly",
+        "good_quality",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 0,
+        "platform_count": 6,
+        "floor_coverage": 0.55
+      }
+    },
+    {
+      "id": "3795d503",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 24,
+        "height": 48
+      },
+      "tier": "HARD",
+      "quality": 6.55,
+      "tags": [
+        "shape_vertical_up",
+        "tier_hard",
+        "good_quality",
+        "spike_heavy",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 9,
+        "platform_count": 22,
+        "floor_coverage": 0.28
+      }
+    },
+    {
+      "id": "d90be574",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 32
+      },
+      "tier": "NORMAL",
+      "quality": 6.55,
+      "tags": [
+        "shape_vertical_up",
+        "tier_normal",
+        "beginner_friendly",
+        "good_quality",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 0,
+        "platform_count": 14,
+        "floor_coverage": 0.28
+      }
+    },
+    {
+      "id": "ce9cdc5a",
+      "shape": "horizontal_right",
+      "dimensions": {
+        "width": 32,
+        "height": 18
+      },
+      "tier": "NORMAL",
+      "quality": 6.42,
+      "tags": [
+        "shape_horizontal_right",
+        "tier_normal",
+        "beginner_friendly",
+        "good_quality",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 6,
+        "platform_count": 11,
+        "floor_coverage": 0.53
+      }
+    },
+    {
+      "id": "4354d12c",
+      "shape": "horizontal_right",
+      "dimensions": {
+        "width": 48,
+        "height": 18
+      },
+      "tier": "NORMAL",
+      "quality": 6.3,
+      "tags": [
+        "shape_horizontal_right",
+        "tier_normal",
+        "beginner_friendly",
+        "good_quality",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 6,
+        "platform_count": 11,
+        "floor_coverage": 0.67
+      }
+    },
+    {
+      "id": "e314a765",
+      "shape": "horizontal_right",
+      "dimensions": {
+        "width": 32,
+        "height": 18
+      },
+      "tier": "EASY",
+      "quality": 6.3,
+      "tags": [
+        "shape_horizontal_right",
+        "tier_easy",
+        "beginner_friendly",
+        "good_quality",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 0,
+        "platform_count": 8,
+        "floor_coverage": 0.72
+      }
+    },
+    {
+      "id": "568b661c",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 24,
+        "height": 48
+      },
+      "tier": "NORMAL",
+      "quality": 6.3,
+      "tags": [
+        "shape_vertical_up",
+        "tier_normal",
+        "beginner_friendly",
+        "good_quality",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 4,
+        "platform_count": 15,
+        "floor_coverage": 0.27
+      }
+    },
+    {
+      "id": "23179813",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 24,
+        "height": 48
+      },
+      "tier": "HARD",
+      "quality": 6.3,
+      "tags": [
+        "shape_vertical_up",
+        "tier_hard",
+        "good_quality",
+        "spike_heavy",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 23,
+        "platform_count": 23,
+        "floor_coverage": 0.27
+      }
+    },
+    {
+      "id": "cee6cc93",
+      "shape": "horizontal_right",
+      "dimensions": {
+        "width": 20,
+        "height": 18
+      },
+      "tier": "EASY",
+      "quality": 6.3,
+      "tags": [
+        "shape_horizontal_right",
+        "tier_easy",
+        "beginner_friendly",
+        "good_quality",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 0,
+        "platform_count": 6,
+        "floor_coverage": 0.8
+      }
+    },
+    {
+      "id": "4a01eb31",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 24,
+        "height": 48
+      },
+      "tier": "NORMAL",
+      "quality": 6.28,
+      "tags": [
+        "shape_vertical_up",
+        "tier_normal",
+        "beginner_friendly",
+        "good_quality",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 0,
+        "platform_count": 36,
+        "floor_coverage": 0.27
+      }
+    },
+    {
+      "id": "aa24aaee",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 32
+      },
+      "tier": "NORMAL",
+      "quality": 6.28,
+      "tags": [
+        "shape_vertical_up",
+        "tier_normal",
+        "beginner_friendly",
+        "good_quality",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 0,
+        "platform_count": 25,
+        "floor_coverage": 0.27
+      }
+    },
+    {
+      "id": "52fbd1fd",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 32
+      },
+      "tier": "HARD",
+      "quality": 6.22,
+      "tags": [
+        "shape_vertical_up",
+        "tier_hard",
+        "good_quality",
+        "spike_heavy",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 22,
+        "platform_count": 19,
+        "floor_coverage": 0.29
+      }
+    },
+    {
+      "id": "75040d6f",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 24,
+        "height": 48
+      },
+      "tier": "HARD",
+      "quality": 6.22,
+      "tags": [
+        "shape_vertical_up",
+        "tier_hard",
+        "good_quality",
+        "spike_heavy",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 26,
+        "platform_count": 24,
+        "floor_coverage": 0.29
+      }
+    },
+    {
+      "id": "316152d6",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 24,
+        "height": 48
+      },
+      "tier": "HARD",
+      "quality": 6.22,
+      "tags": [
+        "shape_vertical_up",
+        "tier_hard",
+        "good_quality",
+        "spike_heavy",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 27,
+        "platform_count": 14,
+        "floor_coverage": 0.28
+      }
+    },
+    {
+      "id": "3be18b8a",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 32
+      },
+      "tier": "HARD",
+      "quality": 6.2,
+      "tags": [
+        "shape_vertical_up",
+        "tier_hard",
+        "good_quality",
+        "spike_heavy",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 16,
+        "platform_count": 10,
+        "floor_coverage": 0.28
+      }
+    },
+    {
+      "id": "3a3b768b",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 32
+      },
+      "tier": "HARD",
+      "quality": 6.2,
+      "tags": [
+        "shape_vertical_up",
+        "tier_hard",
+        "good_quality",
+        "spike_heavy",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 16,
+        "platform_count": 10,
+        "floor_coverage": 0.3
+      }
+    },
+    {
+      "id": "0d2a994c",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 24
+      },
+      "tier": "NORMAL",
+      "quality": 6.15,
+      "tags": [
+        "shape_vertical_up",
+        "tier_normal",
+        "beginner_friendly",
+        "good_quality",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 3,
+        "platform_count": 10,
+        "floor_coverage": 0.28
+      }
+    },
+    {
+      "id": "a753bdf8",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 24
+      },
+      "tier": "NORMAL",
+      "quality": 6.15,
+      "tags": [
+        "shape_vertical_up",
+        "tier_normal",
+        "beginner_friendly",
+        "good_quality",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 2,
+        "platform_count": 10,
+        "floor_coverage": 0.3
+      }
+    },
+    {
+      "id": "4cf4e7eb",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 24
+      },
+      "tier": "NORMAL",
+      "quality": 6.15,
+      "tags": [
+        "shape_vertical_up",
+        "tier_normal",
+        "beginner_friendly",
+        "good_quality",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 0,
+        "platform_count": 10,
+        "floor_coverage": 0.29
+      }
+    },
+    {
+      "id": "6c5acd94",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 32
+      },
+      "tier": "NORMAL",
+      "quality": 6.15,
+      "tags": [
+        "shape_vertical_up",
+        "tier_normal",
+        "beginner_friendly",
+        "good_quality",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 0,
+        "platform_count": 10,
+        "floor_coverage": 0.28
+      }
+    },
+    {
+      "id": "44ec5c74",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 24
+      },
+      "tier": "NORMAL",
+      "quality": 6.15,
+      "tags": [
+        "shape_vertical_up",
+        "tier_normal",
+        "beginner_friendly",
+        "good_quality",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 0,
+        "platform_count": 10,
+        "floor_coverage": 0.26
+      }
+    },
+    {
+      "id": "e86b9fc1",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 24,
+        "height": 48
+      },
+      "tier": "HARD",
+      "quality": 6.15,
+      "tags": [
+        "shape_vertical_up",
+        "tier_hard",
+        "good_quality",
+        "spike_heavy",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 14,
+        "platform_count": 30,
+        "floor_coverage": 0.28
+      }
+    },
+    {
+      "id": "c956864c",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 32
+      },
+      "tier": "NORMAL",
+      "quality": 6.15,
+      "tags": [
+        "shape_vertical_up",
+        "tier_normal",
+        "beginner_friendly",
+        "good_quality",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 0,
+        "platform_count": 10,
+        "floor_coverage": 0.28
+      }
+    },
+    {
+      "id": "e6737465",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 24
+      },
+      "tier": "HARD",
+      "quality": 6.08,
+      "tags": [
+        "shape_vertical_up",
+        "tier_hard",
+        "good_quality",
+        "spike_heavy",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 12,
+        "platform_count": 25,
+        "floor_coverage": 0.27
+      }
+    },
+    {
+      "id": "0a63c21a",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 32
+      },
+      "tier": "HARD",
+      "quality": 6.08,
+      "tags": [
+        "shape_vertical_up",
+        "tier_hard",
+        "good_quality",
+        "spike_heavy",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 15,
+        "platform_count": 22,
+        "floor_coverage": 0.28
+      }
+    },
+    {
+      "id": "ccd8cf1e",
+      "shape": "horizontal_right",
+      "dimensions": {
+        "width": 20,
+        "height": 18
+      },
+      "tier": "EASY",
+      "quality": 6.05,
+      "tags": [
+        "shape_horizontal_right",
+        "tier_easy",
+        "beginner_friendly",
+        "good_quality",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 2,
+        "platform_count": 6,
+        "floor_coverage": 0.65
+      }
+    },
+    {
+      "id": "0e30f1e3",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 24
+      },
+      "tier": "NORMAL",
+      "quality": 6.03,
+      "tags": [
+        "shape_vertical_up",
+        "tier_normal",
+        "beginner_friendly",
+        "good_quality",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 0,
+        "platform_count": 15,
+        "floor_coverage": 0.27
+      }
+    },
+    {
+      "id": "d6d66854",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 32
+      },
+      "tier": "NORMAL",
+      "quality": 6.03,
+      "tags": [
+        "shape_vertical_up",
+        "tier_normal",
+        "beginner_friendly",
+        "good_quality",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 6,
+        "platform_count": 17,
+        "floor_coverage": 0.28
+      }
+    },
+    {
+      "id": "509278c5",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 24
+      },
+      "tier": "HARD",
+      "quality": 6.03,
+      "tags": [
+        "shape_vertical_up",
+        "tier_hard",
+        "good_quality",
+        "spike_heavy",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 9,
+        "platform_count": 10,
+        "floor_coverage": 0.27
+      }
+    },
+    {
+      "id": "87896245",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 24
+      },
+      "tier": "HARD",
+      "quality": 6.03,
+      "tags": [
+        "shape_vertical_up",
+        "tier_hard",
+        "good_quality",
+        "spike_heavy",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 8,
+        "platform_count": 10,
+        "floor_coverage": 0.3
+      }
+    },
+    {
+      "id": "b0980182",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 24
+      },
+      "tier": "NORMAL",
+      "quality": 6.03,
+      "tags": [
+        "shape_vertical_up",
+        "tier_normal",
+        "beginner_friendly",
+        "good_quality",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 5,
+        "platform_count": 14,
+        "floor_coverage": 0.27
+      }
+    },
+    {
+      "id": "c49a8eb9",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 24
+      },
+      "tier": "NORMAL",
+      "quality": 6.03,
+      "tags": [
+        "shape_vertical_up",
+        "tier_normal",
+        "beginner_friendly",
+        "good_quality",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 7,
+        "platform_count": 10,
+        "floor_coverage": 0.29
+      }
+    },
+    {
+      "id": "41549900",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 24
+      },
+      "tier": "HARD",
+      "quality": 5.9,
+      "tags": [
+        "shape_vertical_up",
+        "tier_hard",
+        "spike_heavy",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 9,
+        "platform_count": 25,
+        "floor_coverage": 0.26
+      }
+    },
+    {
+      "id": "67fb66f7",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 32
+      },
+      "tier": "NORMAL",
+      "quality": 5.9,
+      "tags": [
+        "shape_vertical_up",
+        "tier_normal",
+        "beginner_friendly",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 0,
+        "platform_count": 10,
+        "floor_coverage": 0.26
+      }
+    },
+    {
+      "id": "a5318788",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 24
+      },
+      "tier": "NORMAL",
+      "quality": 5.9,
+      "tags": [
+        "shape_vertical_up",
+        "tier_normal",
+        "beginner_friendly",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 7,
+        "platform_count": 14,
+        "floor_coverage": 0.26
+      }
+    },
+    {
+      "id": "2dda407e",
+      "shape": "box",
+      "dimensions": {
+        "width": 32,
+        "height": 20
+      },
+      "tier": "HARD",
+      "quality": 5.78,
+      "tags": [
+        "shape_box",
+        "tier_hard",
+        "spike_heavy",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 8,
+        "platform_count": 35,
+        "floor_coverage": 0.1
+      }
+    },
+    {
+      "id": "2552e64e",
+      "shape": "box",
+      "dimensions": {
+        "width": 32,
+        "height": 20
+      },
+      "tier": "NORMAL",
+      "quality": 5.78,
+      "tags": [
+        "shape_box",
+        "tier_normal",
+        "beginner_friendly",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 7,
+        "platform_count": 28,
+        "floor_coverage": 0.08
+      }
+    },
+    {
+      "id": "e6e0ef69",
+      "shape": "horizontal_right",
+      "dimensions": {
+        "width": 48,
+        "height": 18
+      },
+      "tier": "NORMAL",
+      "quality": 5.78,
+      "tags": [
+        "shape_horizontal_right",
+        "tier_normal",
+        "beginner_friendly",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 0,
+        "platform_count": 6,
+        "floor_coverage": 0.52
+      }
+    },
+    {
+      "id": "60d87d21",
+      "shape": "box",
+      "dimensions": {
+        "width": 32,
+        "height": 20
+      },
+      "tier": "HARD",
+      "quality": 5.78,
+      "tags": [
+        "shape_box",
+        "tier_hard",
+        "spike_heavy",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 8,
+        "platform_count": 40,
+        "floor_coverage": 0.1
+      }
+    },
+    {
+      "id": "690dc712",
+      "shape": "horizontal_right",
+      "dimensions": {
+        "width": 20,
+        "height": 18
+      },
+      "tier": "EASY",
+      "quality": 5.78,
+      "tags": [
+        "shape_horizontal_right",
+        "tier_easy",
+        "beginner_friendly",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 3,
+        "platform_count": 12,
+        "floor_coverage": 0.7
+      }
+    },
+    {
+      "id": "86459cfe",
+      "shape": "horizontal_right",
+      "dimensions": {
+        "width": 48,
+        "height": 18
+      },
+      "tier": "HARD",
+      "quality": 5.78,
+      "tags": [
+        "shape_horizontal_right",
+        "tier_hard",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 0,
+        "platform_count": 6,
+        "floor_coverage": 0.52
+      }
+    },
+    {
+      "id": "95175ee9",
+      "shape": "box",
+      "dimensions": {
+        "width": 24,
+        "height": 18
+      },
+      "tier": "NORMAL",
+      "quality": 5.78,
+      "tags": [
+        "shape_box",
+        "tier_normal",
+        "beginner_friendly",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 4,
+        "platform_count": 26,
+        "floor_coverage": 0.1
+      }
+    },
+    {
+      "id": "6e66d985",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 24
+      },
+      "tier": "HARD",
+      "quality": 5.7,
+      "tags": [
+        "shape_vertical_up",
+        "tier_hard",
+        "spike_heavy",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 13,
+        "platform_count": 20,
+        "floor_coverage": 0.26
+      }
+    },
+    {
+      "id": "add9996c",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 20,
+        "height": 32
+      },
+      "tier": "HARD",
+      "quality": 5.7,
+      "tags": [
+        "shape_vertical_up",
+        "tier_hard",
+        "spike_heavy",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 16,
+        "platform_count": 20,
+        "floor_coverage": 0.28
+      }
+    },
+    {
+      "id": "cc0f9e13",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 24,
+        "height": 48
+      },
+      "tier": "NORMAL",
+      "quality": 5.62,
+      "tags": [
+        "shape_vertical_up",
+        "tier_normal",
+        "beginner_friendly",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 2,
+        "platform_count": 10,
+        "floor_coverage": 0.29
+      }
+    },
+    {
+      "id": "5c843121",
+      "shape": "box",
+      "dimensions": {
+        "width": 32,
+        "height": 20
+      },
+      "tier": "NORMAL",
+      "quality": 5.53,
+      "tags": [
+        "shape_box",
+        "tier_normal",
+        "beginner_friendly",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 0,
+        "platform_count": 27,
+        "floor_coverage": 0.09
+      }
+    },
+    {
+      "id": "7003146a",
+      "shape": "box",
+      "dimensions": {
+        "width": 32,
+        "height": 20
+      },
+      "tier": "NORMAL",
+      "quality": 5.53,
+      "tags": [
+        "shape_box",
+        "tier_normal",
+        "beginner_friendly",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 0,
+        "platform_count": 19,
+        "floor_coverage": 0.08
+      }
+    },
+    {
+      "id": "bbd4daf2",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 24,
+        "height": 48
+      },
+      "tier": "HARD",
+      "quality": 5.5,
+      "tags": [
+        "shape_vertical_up",
+        "tier_hard",
+        "spike_heavy",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 18,
+        "platform_count": 10,
+        "floor_coverage": 0.29
+      }
+    },
+    {
+      "id": "46f0c9b9",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 24,
+        "height": 48
+      },
+      "tier": "NORMAL",
+      "quality": 5.38,
+      "tags": [
+        "shape_vertical_up",
+        "tier_normal",
+        "beginner_friendly",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 0,
+        "platform_count": 10,
+        "floor_coverage": 0.27
+      }
+    },
+    {
+      "id": "bf30cf5d",
+      "shape": "vertical_up",
+      "dimensions": {
+        "width": 24,
+        "height": 48
+      },
+      "tier": "HARD",
+      "quality": 5.3,
+      "tags": [
+        "shape_vertical_up",
+        "tier_hard",
+        "spike_heavy",
+        "platform_heavy"
+      ],
+      "features": {
+        "spike_count": 27,
+        "platform_count": 10,
+        "floor_coverage": 0.28
+      }
+    }
+  ]
+}

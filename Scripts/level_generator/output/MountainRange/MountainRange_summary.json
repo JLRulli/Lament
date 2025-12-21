@@ -1,0 +1,62 @@
+{
+  "world_name": "MountainRange",
+  "level_count": 7,
+  "levels": [
+    {
+      "level_id": "MountainRange_L01",
+      "difficulty": 2,
+      "shape": "horizontal_right",
+      "quality": 5.775,
+      "enemy_count": 1,
+      "obstacle_count": 2
+    },
+    {
+      "level_id": "MountainRange_L02",
+      "difficulty": 2,
+      "shape": "horizontal_right",
+      "quality": 5.275,
+      "enemy_count": 0,
+      "obstacle_count": 2
+    },
+    {
+      "level_id": "MountainRange_L03",
+      "difficulty": 4,
+      "shape": "horizontal_right",
+      "quality": 5.4,
+      "enemy_count": 1,
+      "obstacle_count": 14
+    },
+    {
+      "level_id": "MountainRange_L04",
+      "difficulty": 7,
+      "shape": "horizontal_right",
+      "quality": 6.05,
+      "enemy_count": 8,
+      "obstacle_count": 30
+    },
+    {
+      "level_id": "MountainRange_L05",
+      "difficulty": 7,
+      "shape": "horizontal_right",
+      "quality": 6.675,
+      "enemy_count": 7,
+      "obstacle_count": 30
+    },
+    {
+      "level_id": "MountainRange_L06",
+      "difficulty": 9,
+      "shape": "box",
+      "quality": 5.775,
+      "enemy_count": 14,
+      "obstacle_count": 52
+    },
+    {
+      "level_id": "MountainRange_L07",
+      "difficulty": 9,
+      "shape": "box",
+      "quality": 5.775,
+      "enemy_count": 18,
+      "obstacle_count": 54
+    }
+  ]
+}

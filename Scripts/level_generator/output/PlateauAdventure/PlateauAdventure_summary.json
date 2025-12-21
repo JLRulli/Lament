@@ -1,0 +1,102 @@
+{
+  "world_name": "PlateauAdventure",
+  "level_count": 12,
+  "levels": [
+    {
+      "level_id": "PlateauAdventure_L01",
+      "difficulty": 2,
+      "shape": "horizontal_right",
+      "quality": 5.4,
+      "enemy_count": 1,
+      "obstacle_count": 1
+    },
+    {
+      "level_id": "PlateauAdventure_L02",
+      "difficulty": 2,
+      "shape": "box",
+      "quality": 5.775,
+      "enemy_count": 0,
+      "obstacle_count": 0
+    },
+    {
+      "level_id": "PlateauAdventure_L03",
+      "difficulty": 2,
+      "shape": "vertical_down",
+      "quality": 6.15,
+      "enemy_count": 1,
+      "obstacle_count": 2
+    },
+    {
+      "level_id": "PlateauAdventure_L04",
+      "difficulty": 4,
+      "shape": "vertical_down",
+      "quality": 6.15,
+      "enemy_count": 4,
+      "obstacle_count": 12
+    },
+    {
+      "level_id": "PlateauAdventure_L05",
+      "difficulty": 4,
+      "shape": "box",
+      "quality": 5.525,
+      "enemy_count": 1,
+      "obstacle_count": 12
+    },
+    {
+      "level_id": "PlateauAdventure_L06",
+      "difficulty": 4,
+      "shape": "vertical_down",
+      "quality": 6.025,
+      "enemy_count": 3,
+      "obstacle_count": 12
+    },
+    {
+      "level_id": "PlateauAdventure_L07",
+      "difficulty": 7,
+      "shape": "box",
+      "quality": 5.525,
+      "enemy_count": 5,
+      "obstacle_count": 21
+    },
+    {
+      "level_id": "PlateauAdventure_L08",
+      "difficulty": 7,
+      "shape": "horizontal_right",
+      "quality": 6.6,
+      "enemy_count": 0,
+      "obstacle_count": 20
+    },
+    {
+      "level_id": "PlateauAdventure_L09",
+      "difficulty": 7,
+      "shape": "box",
+      "quality": 5.775,
+      "enemy_count": 7,
+      "obstacle_count": 22
+    },
+    {
+      "level_id": "PlateauAdventure_L10",
+      "difficulty": 9,
+      "shape": "horizontal_right",
+      "quality": 6.325,
+      "enemy_count": 0,
+      "obstacle_count": 45
+    },
+    {
+      "level_id": "PlateauAdventure_L11",
+      "difficulty": 9,
+      "shape": "box",
+      "quality": 5.525,
+      "enemy_count": 11,
+      "obstacle_count": 54
+    },
+    {
+      "level_id": "PlateauAdventure_L12",
+      "difficulty": 9,
+      "shape": "horizontal_right",
+      "quality": 6.475,
+      "enemy_count": 12,
+      "obstacle_count": 57
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "world_name": "LinearTest",
+  "level_count": 5,
+  "levels": [
+    {
+      "level_id": "LinearTest_L01",
+      "difficulty": 1,
+      "shape": "horizontal_right",
+      "quality": 3.875,
+      "enemy_count": 1,
+      "obstacle_count": 1
+    },
+    {
+      "level_id": "LinearTest_L02",
+      "difficulty": 3,
+      "shape": "horizontal_right",
+      "quality": 5.4,
+      "enemy_count": 1,
+      "obstacle_count": 2
+    },
+    {
+      "level_id": "LinearTest_L03",
+      "difficulty": 5,
+      "shape": "horizontal_right",
+      "quality": 6.1,
+      "enemy_count": 0,
+      "obstacle_count": 14
+    },
+    {
+      "level_id": "LinearTest_L04",
+      "difficulty": 7,
+      "shape": "box",
+      "quality": 5.775,
+      "enemy_count": 7,
+      "obstacle_count": 22
+    },
+    {
+      "level_id": "LinearTest_L05",
+      "difficulty": 10,
+      "shape": "box",
+      "quality": 5.65,
+      "enemy_count": 14,
+      "obstacle_count": 72
+    }
+  ]
+}

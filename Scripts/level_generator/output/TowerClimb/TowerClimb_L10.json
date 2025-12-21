@@ -1,0 +1,5479 @@
+{
+  "version": "1.0",
+  "generated_by": "level_generator_week4",
+  "metadata": {
+    "id": "b91b0426",
+    "shape_type": "vertical_up",
+    "width": 24,
+    "height": 48,
+    "difficulty": 10,
+    "size_category": "medium",
+    "features": []
+  },
+  "tilemap": {
+    "width": 24,
+    "height": 48,
+    "tiles": [
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ]
+    ],
+    "tile_legend": {
+      "0": "empty",
+      "1": "ground",
+      "2": "wall",
+      "3": "platform_oneway",
+      "4": "spike",
+      "5": "pit",
+      "10": "slope_up_right",
+      "11": "slope_up_left",
+      "12": "slope_down_right",
+      "13": "slope_down_left"
+    },
+    "coordinate_system": "Y=0 is TOP, Y=height-1 is BOTTOM"
+  },
+  "validation": {
+    "valid": true,
+    "tier": "HARD",
+    "path_length": 0,
+    "spike_count": 29,
+    "platform_count": 22,
+    "floor_coverage": 0.28
+  },
+  "quality": {
+    "overall": 6.22,
+    "playability": 0,
+    "challenge": 0,
+    "variety": 7.0
+  },
+  "spawn_zones": {
+    "enemies": [
+      {
+        "id": "ground_0",
+        "position": {
+          "x": 12,
+          "y": 0
+        },
+        "type": "ground",
+        "size": {
+          "width": 5,
+          "height": 1
+        },
+        "allowed_enemies": [
+          "light_walker",
+          "medium_walker",
+          "heavy_walker"
+        ]
+      },
+      {
+        "id": "ground_1",
+        "position": {
+          "x": 4,
+          "y": 5
+        },
+        "type": "ground",
+        "size": {
+          "width": 7,
+          "height": 1
+        },
+        "allowed_enemies": [
+          "light_walker",
+          "medium_walker",
+          "heavy_walker"
+        ]
+      },
+      {
+        "id": "ground_2",
+        "position": {
+          "x": 12,
+          "y": 23
+        },
+        "type": "ground",
+        "size": {
+          "width": 7,
+          "height": 1
+        },
+        "allowed_enemies": [
+          "light_walker",
+          "medium_walker",
+          "heavy_walker"
+        ]
+      },
+      {
+        "id": "ground_3",
+        "position": {
+          "x": 19,
+          "y": 34
+        },
+        "type": "ground",
+        "size": {
+          "width": 7,
+          "height": 1
+        },
+        "allowed_enemies": [
+          "light_walker",
+          "medium_walker",
+          "heavy_walker"
+        ]
+      },
+      {
+        "id": "ground_4",
+        "position": {
+          "x": 12,
+          "y": 39
+        },
+        "type": "ground",
+        "size": {
+          "width": 4,
+          "height": 1
+        },
+        "allowed_enemies": [
+          "light_walker",
+          "medium_walker",
+          "heavy_walker"
+        ]
+      },
+      {
+        "id": "ground_5",
+        "position": {
+          "x": 12,
+          "y": 45
+        },
+        "type": "ground",
+        "size": {
+          "width": 5,
+          "height": 1
+        },
+        "allowed_enemies": [
+          "light_walker",
+          "medium_walker",
+          "heavy_walker"
+        ]
+      },
+      {
+        "id": "ground_6",
+        "position": {
+          "x": 4,
+          "y": 46
+        },
+        "type": "ground",
+        "size": {
+          "width": 7,
+          "height": 1
+        },
+        "allowed_enemies": [
+          "light_walker",
+          "medium_walker",
+          "heavy_walker"
+        ]
+      },
+      {
+        "id": "aerial_0",
+        "position": {
+          "x": 4,
+          "y": 2
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_1",
+        "position": {
+          "x": 6,
+          "y": 2
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_2",
+        "position": {
+          "x": 8,
+          "y": 2
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_3",
+        "position": {
+          "x": 10,
+          "y": 2
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_4",
+        "position": {
+          "x": 12,
+          "y": 2
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_5",
+        "position": {
+          "x": 14,
+          "y": 2
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_6",
+        "position": {
+          "x": 16,
+          "y": 2
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_7",
+        "position": {
+          "x": 18,
+          "y": 2
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_8",
+        "position": {
+          "x": 20,
+          "y": 2
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_9",
+        "position": {
+          "x": 2,
+          "y": 4
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_10",
+        "position": {
+          "x": 4,
+          "y": 4
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_11",
+        "position": {
+          "x": 6,
+          "y": 4
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_12",
+        "position": {
+          "x": 8,
+          "y": 4
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_13",
+        "position": {
+          "x": 10,
+          "y": 4
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_14",
+        "position": {
+          "x": 12,
+          "y": 4
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_15",
+        "position": {
+          "x": 14,
+          "y": 4
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_16",
+        "position": {
+          "x": 16,
+          "y": 4
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_17",
+        "position": {
+          "x": 18,
+          "y": 4
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_18",
+        "position": {
+          "x": 20,
+          "y": 4
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_19",
+        "position": {
+          "x": 22,
+          "y": 4
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_20",
+        "position": {
+          "x": 10,
+          "y": 6
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_21",
+        "position": {
+          "x": 12,
+          "y": 6
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_22",
+        "position": {
+          "x": 14,
+          "y": 6
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_23",
+        "position": {
+          "x": 16,
+          "y": 6
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_24",
+        "position": {
+          "x": 18,
+          "y": 6
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_25",
+        "position": {
+          "x": 20,
+          "y": 6
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_26",
+        "position": {
+          "x": 22,
+          "y": 6
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_27",
+        "position": {
+          "x": 10,
+          "y": 8
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_28",
+        "position": {
+          "x": 12,
+          "y": 8
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_29",
+        "position": {
+          "x": 14,
+          "y": 8
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_30",
+        "position": {
+          "x": 16,
+          "y": 8
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_31",
+        "position": {
+          "x": 18,
+          "y": 8
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_32",
+        "position": {
+          "x": 20,
+          "y": 8
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_33",
+        "position": {
+          "x": 22,
+          "y": 8
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_34",
+        "position": {
+          "x": 10,
+          "y": 10
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_35",
+        "position": {
+          "x": 12,
+          "y": 10
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_36",
+        "position": {
+          "x": 14,
+          "y": 10
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_37",
+        "position": {
+          "x": 16,
+          "y": 10
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_38",
+        "position": {
+          "x": 18,
+          "y": 10
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_39",
+        "position": {
+          "x": 20,
+          "y": 10
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_40",
+        "position": {
+          "x": 22,
+          "y": 10
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_41",
+        "position": {
+          "x": 10,
+          "y": 12
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_42",
+        "position": {
+          "x": 12,
+          "y": 12
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_43",
+        "position": {
+          "x": 14,
+          "y": 12
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_44",
+        "position": {
+          "x": 16,
+          "y": 12
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_45",
+        "position": {
+          "x": 18,
+          "y": 12
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_46",
+        "position": {
+          "x": 20,
+          "y": 12
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_47",
+        "position": {
+          "x": 22,
+          "y": 12
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_48",
+        "position": {
+          "x": 10,
+          "y": 14
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_49",
+        "position": {
+          "x": 12,
+          "y": 14
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_50",
+        "position": {
+          "x": 14,
+          "y": 14
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_51",
+        "position": {
+          "x": 16,
+          "y": 14
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_52",
+        "position": {
+          "x": 18,
+          "y": 14
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_53",
+        "position": {
+          "x": 20,
+          "y": 14
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_54",
+        "position": {
+          "x": 22,
+          "y": 14
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_55",
+        "position": {
+          "x": 10,
+          "y": 16
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_56",
+        "position": {
+          "x": 12,
+          "y": 16
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_57",
+        "position": {
+          "x": 14,
+          "y": 16
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_58",
+        "position": {
+          "x": 16,
+          "y": 16
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_59",
+        "position": {
+          "x": 18,
+          "y": 16
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_60",
+        "position": {
+          "x": 20,
+          "y": 16
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_61",
+        "position": {
+          "x": 22,
+          "y": 16
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_62",
+        "position": {
+          "x": 10,
+          "y": 18
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_63",
+        "position": {
+          "x": 12,
+          "y": 18
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_64",
+        "position": {
+          "x": 14,
+          "y": 18
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_65",
+        "position": {
+          "x": 16,
+          "y": 18
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_66",
+        "position": {
+          "x": 18,
+          "y": 18
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_67",
+        "position": {
+          "x": 20,
+          "y": 18
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_68",
+        "position": {
+          "x": 22,
+          "y": 18
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_69",
+        "position": {
+          "x": 10,
+          "y": 20
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_70",
+        "position": {
+          "x": 12,
+          "y": 20
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_71",
+        "position": {
+          "x": 14,
+          "y": 20
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_72",
+        "position": {
+          "x": 16,
+          "y": 20
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_73",
+        "position": {
+          "x": 18,
+          "y": 20
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_74",
+        "position": {
+          "x": 20,
+          "y": 20
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_75",
+        "position": {
+          "x": 22,
+          "y": 20
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_76",
+        "position": {
+          "x": 10,
+          "y": 22
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_77",
+        "position": {
+          "x": 12,
+          "y": 22
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_78",
+        "position": {
+          "x": 14,
+          "y": 22
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_79",
+        "position": {
+          "x": 16,
+          "y": 22
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_80",
+        "position": {
+          "x": 18,
+          "y": 22
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_81",
+        "position": {
+          "x": 20,
+          "y": 22
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_82",
+        "position": {
+          "x": 22,
+          "y": 22
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_83",
+        "position": {
+          "x": 12,
+          "y": 24
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_84",
+        "position": {
+          "x": 14,
+          "y": 24
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_85",
+        "position": {
+          "x": 16,
+          "y": 24
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_86",
+        "position": {
+          "x": 18,
+          "y": 24
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_87",
+        "position": {
+          "x": 20,
+          "y": 24
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_88",
+        "position": {
+          "x": 22,
+          "y": 24
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_89",
+        "position": {
+          "x": 12,
+          "y": 26
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_90",
+        "position": {
+          "x": 14,
+          "y": 26
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_91",
+        "position": {
+          "x": 16,
+          "y": 26
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_92",
+        "position": {
+          "x": 18,
+          "y": 26
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_93",
+        "position": {
+          "x": 20,
+          "y": 26
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_94",
+        "position": {
+          "x": 22,
+          "y": 26
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_95",
+        "position": {
+          "x": 10,
+          "y": 28
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_96",
+        "position": {
+          "x": 12,
+          "y": 28
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_97",
+        "position": {
+          "x": 14,
+          "y": 28
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_98",
+        "position": {
+          "x": 16,
+          "y": 28
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_99",
+        "position": {
+          "x": 18,
+          "y": 28
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_100",
+        "position": {
+          "x": 20,
+          "y": 28
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_101",
+        "position": {
+          "x": 22,
+          "y": 28
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_102",
+        "position": {
+          "x": 10,
+          "y": 30
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_103",
+        "position": {
+          "x": 12,
+          "y": 30
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_104",
+        "position": {
+          "x": 14,
+          "y": 30
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_105",
+        "position": {
+          "x": 16,
+          "y": 30
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_106",
+        "position": {
+          "x": 18,
+          "y": 30
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_107",
+        "position": {
+          "x": 20,
+          "y": 30
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_108",
+        "position": {
+          "x": 22,
+          "y": 30
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_109",
+        "position": {
+          "x": 10,
+          "y": 32
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_110",
+        "position": {
+          "x": 12,
+          "y": 32
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_111",
+        "position": {
+          "x": 14,
+          "y": 32
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_112",
+        "position": {
+          "x": 16,
+          "y": 32
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_113",
+        "position": {
+          "x": 18,
+          "y": 32
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_114",
+        "position": {
+          "x": 20,
+          "y": 32
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_115",
+        "position": {
+          "x": 22,
+          "y": 32
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_116",
+        "position": {
+          "x": 4,
+          "y": 34
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_117",
+        "position": {
+          "x": 6,
+          "y": 34
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_118",
+        "position": {
+          "x": 8,
+          "y": 34
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_119",
+        "position": {
+          "x": 10,
+          "y": 34
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_120",
+        "position": {
+          "x": 12,
+          "y": 34
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_121",
+        "position": {
+          "x": 14,
+          "y": 34
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_122",
+        "position": {
+          "x": 16,
+          "y": 34
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_123",
+        "position": {
+          "x": 18,
+          "y": 34
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_124",
+        "position": {
+          "x": 20,
+          "y": 34
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_125",
+        "position": {
+          "x": 2,
+          "y": 36
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_126",
+        "position": {
+          "x": 4,
+          "y": 36
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_127",
+        "position": {
+          "x": 6,
+          "y": 36
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_128",
+        "position": {
+          "x": 8,
+          "y": 36
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_129",
+        "position": {
+          "x": 10,
+          "y": 36
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_130",
+        "position": {
+          "x": 12,
+          "y": 36
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_131",
+        "position": {
+          "x": 14,
+          "y": 36
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_132",
+        "position": {
+          "x": 2,
+          "y": 38
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_133",
+        "position": {
+          "x": 4,
+          "y": 38
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_134",
+        "position": {
+          "x": 6,
+          "y": 38
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_135",
+        "position": {
+          "x": 8,
+          "y": 38
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_136",
+        "position": {
+          "x": 10,
+          "y": 38
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_137",
+        "position": {
+          "x": 12,
+          "y": 38
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_138",
+        "position": {
+          "x": 14,
+          "y": 38
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_139",
+        "position": {
+          "x": 2,
+          "y": 40
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_140",
+        "position": {
+          "x": 4,
+          "y": 40
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_141",
+        "position": {
+          "x": 6,
+          "y": 40
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_142",
+        "position": {
+          "x": 8,
+          "y": 40
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_143",
+        "position": {
+          "x": 10,
+          "y": 40
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_144",
+        "position": {
+          "x": 12,
+          "y": 40
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_145",
+        "position": {
+          "x": 14,
+          "y": 40
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_146",
+        "position": {
+          "x": 2,
+          "y": 42
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_147",
+        "position": {
+          "x": 4,
+          "y": 42
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_148",
+        "position": {
+          "x": 6,
+          "y": 42
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_149",
+        "position": {
+          "x": 8,
+          "y": 42
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_150",
+        "position": {
+          "x": 10,
+          "y": 42
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_151",
+        "position": {
+          "x": 12,
+          "y": 42
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_152",
+        "position": {
+          "x": 14,
+          "y": 42
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_153",
+        "position": {
+          "x": 2,
+          "y": 44
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_154",
+        "position": {
+          "x": 4,
+          "y": 44
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_155",
+        "position": {
+          "x": 6,
+          "y": 44
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_156",
+        "position": {
+          "x": 8,
+          "y": 44
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_157",
+        "position": {
+          "x": 10,
+          "y": 44
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_158",
+        "position": {
+          "x": 12,
+          "y": 44
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_159",
+        "position": {
+          "x": 14,
+          "y": 44
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_160",
+        "position": {
+          "x": 4,
+          "y": 46
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_161",
+        "position": {
+          "x": 6,
+          "y": 46
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_162",
+        "position": {
+          "x": 8,
+          "y": 46
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_163",
+        "position": {
+          "x": 10,
+          "y": 46
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "aerial_164",
+        "position": {
+          "x": 12,
+          "y": 46
+        },
+        "type": "aerial",
+        "size": {
+          "width": 4,
+          "height": 4
+        },
+        "allowed_enemies": [
+          "light_flyer",
+          "medium_flyer"
+        ]
+      },
+      {
+        "id": "wall_0",
+        "position": {
+          "x": 0,
+          "y": 3
+        },
+        "type": "wall",
+        "size": {
+          "width": 1,
+          "height": 5
+        },
+        "allowed_enemies": [
+          "wall_crawler"
+        ]
+      },
+      {
+        "id": "wall_1",
+        "position": {
+          "x": 0,
+          "y": 40
+        },
+        "type": "wall",
+        "size": {
+          "width": 1,
+          "height": 14
+        },
+        "allowed_enemies": [
+          "wall_crawler"
+        ]
+      },
+      {
+        "id": "wall_2",
+        "position": {
+          "x": 23,
+          "y": 18
+        },
+        "type": "wall",
+        "size": {
+          "width": 1,
+          "height": 34
+        },
+        "allowed_enemies": [
+          "wall_crawler"
+        ]
+      }
+    ],
+    "obstacles": [
+      {
+        "id": "slot_0",
+        "position": {
+          "x": 3,
+          "y": 42
+        },
+        "allowed_types": [
+          "spike",
+          "moving_platform",
+          "drill"
+        ]
+      },
+      {
+        "id": "slot_1",
+        "position": {
+          "x": 13,
+          "y": 43
+        },
+        "allowed_types": [
+          "spike",
+          "moving_platform",
+          "drill"
+        ]
+      },
+      {
+        "id": "slot_2",
+        "position": {
+          "x": 13,
+          "y": 11
+        },
+        "allowed_types": [
+          "spike",
+          "moving_platform",
+          "drill"
+        ]
+      },
+      {
+        "id": "slot_3",
+        "position": {
+          "x": 6,
+          "y": 36
+        },
+        "allowed_types": [
+          "spike",
+          "moving_platform",
+          "drill"
+        ]
+      },
+      {
+        "id": "slot_4",
+        "position": {
+          "x": 2,
+          "y": 27
+        },
+        "allowed_types": [
+          "spike",
+          "moving_platform",
+          "drill"
+        ]
+      }
+    ]
+  },
+  "connections": {
+    "entrance": {
+      "position": {
+        "x": 12,
+        "y": 47
+      },
+      "direction": "down",
+      "type": "door"
+    },
+    "exit": {
+      "position": {
+        "x": 12,
+        "y": 0
+      },
+      "direction": "up",
+      "type": "door"
+    }
+  },
+  "entities": {
+    "enemies": [
+      {
+        "type": "medium_walker",
+        "position": {
+          "x": 12,
+          "y": 45
+        },
+        "zone_id": "ground_5",
+        "properties": {
+          "threat_level": 3,
+          "movement": "ground",
+          "spawn_zone_type": "ground"
+        }
+      },
+      {
+        "type": "medium_flyer",
+        "position": {
+          "x": 12,
+          "y": 20
+        },
+        "zone_id": "aerial_70",
+        "properties": {
+          "threat_level": 4,
+          "movement": "aerial",
+          "spawn_zone_type": "aerial"
+        }
+      },
+      {
+        "type": "light_flyer",
+        "position": {
+          "x": 20,
+          "y": 24
+        },
+        "zone_id": "aerial_87",
+        "properties": {
+          "threat_level": 2,
+          "movement": "aerial",
+          "spawn_zone_type": "aerial"
+        }
+      },
+      {
+        "type": "medium_flyer",
+        "position": {
+          "x": 12,
+          "y": 8
+        },
+        "zone_id": "aerial_28",
+        "properties": {
+          "threat_level": 4,
+          "movement": "aerial",
+          "spawn_zone_type": "aerial"
+        }
+      },
+      {
+        "type": "medium_flyer",
+        "position": {
+          "x": 10,
+          "y": 14
+        },
+        "zone_id": "aerial_48",
+        "properties": {
+          "threat_level": 4,
+          "movement": "aerial",
+          "spawn_zone_type": "aerial"
+        }
+      },
+      {
+        "type": "medium_flyer",
+        "position": {
+          "x": 20,
+          "y": 18
+        },
+        "zone_id": "aerial_67",
+        "properties": {
+          "threat_level": 4,
+          "movement": "aerial",
+          "spawn_zone_type": "aerial"
+        }
+      },
+      {
+        "type": "medium_flyer",
+        "position": {
+          "x": 22,
+          "y": 20
+        },
+        "zone_id": "aerial_75",
+        "properties": {
+          "threat_level": 4,
+          "movement": "aerial",
+          "spawn_zone_type": "aerial"
+        }
+      },
+      {
+        "type": "medium_flyer",
+        "position": {
+          "x": 16,
+          "y": 18
+        },
+        "zone_id": "aerial_65",
+        "properties": {
+          "threat_level": 4,
+          "movement": "aerial",
+          "spawn_zone_type": "aerial"
+        }
+      },
+      {
+        "type": "medium_flyer",
+        "position": {
+          "x": 12,
+          "y": 40
+        },
+        "zone_id": "aerial_144",
+        "properties": {
+          "threat_level": 4,
+          "movement": "aerial",
+          "spawn_zone_type": "aerial"
+        }
+      },
+      {
+        "type": "light_flyer",
+        "position": {
+          "x": 12,
+          "y": 34
+        },
+        "zone_id": "aerial_120",
+        "properties": {
+          "threat_level": 2,
+          "movement": "aerial",
+          "spawn_zone_type": "aerial"
+        }
+      },
+      {
+        "type": "light_flyer",
+        "position": {
+          "x": 10,
+          "y": 38
+        },
+        "zone_id": "aerial_136",
+        "properties": {
+          "threat_level": 2,
+          "movement": "aerial",
+          "spawn_zone_type": "aerial"
+        }
+      },
+      {
+        "type": "medium_flyer",
+        "position": {
+          "x": 22,
+          "y": 30
+        },
+        "zone_id": "aerial_108",
+        "properties": {
+          "threat_level": 4,
+          "movement": "aerial",
+          "spawn_zone_type": "aerial"
+        }
+      },
+      {
+        "type": "medium_flyer",
+        "position": {
+          "x": 22,
+          "y": 26
+        },
+        "zone_id": "aerial_94",
+        "properties": {
+          "threat_level": 4,
+          "movement": "aerial",
+          "spawn_zone_type": "aerial"
+        }
+      },
+      {
+        "type": "medium_flyer",
+        "position": {
+          "x": 22,
+          "y": 28
+        },
+        "zone_id": "aerial_101",
+        "properties": {
+          "threat_level": 4,
+          "movement": "aerial",
+          "spawn_zone_type": "aerial"
+        }
+      },
+      {
+        "type": "medium_flyer",
+        "position": {
+          "x": 14,
+          "y": 34
+        },
+        "zone_id": "aerial_121",
+        "properties": {
+          "threat_level": 4,
+          "movement": "aerial",
+          "spawn_zone_type": "aerial"
+        }
+      },
+      {
+        "type": "light_flyer",
+        "position": {
+          "x": 10,
+          "y": 34
+        },
+        "zone_id": "aerial_119",
+        "properties": {
+          "threat_level": 2,
+          "movement": "aerial",
+          "spawn_zone_type": "aerial"
+        }
+      },
+      {
+        "type": "medium_flyer",
+        "position": {
+          "x": 22,
+          "y": 4
+        },
+        "zone_id": "aerial_19",
+        "properties": {
+          "threat_level": 4,
+          "movement": "aerial",
+          "spawn_zone_type": "aerial"
+        }
+      },
+      {
+        "type": "medium_flyer",
+        "position": {
+          "x": 18,
+          "y": 32
+        },
+        "zone_id": "aerial_113",
+        "properties": {
+          "threat_level": 4,
+          "movement": "aerial",
+          "spawn_zone_type": "aerial"
+        }
+      },
+      {
+        "type": "light_flyer",
+        "position": {
+          "x": 10,
+          "y": 6
+        },
+        "zone_id": "aerial_20",
+        "properties": {
+          "threat_level": 2,
+          "movement": "aerial",
+          "spawn_zone_type": "aerial"
+        }
+      },
+      {
+        "type": "medium_flyer",
+        "position": {
+          "x": 16,
+          "y": 14
+        },
+        "zone_id": "aerial_51",
+        "properties": {
+          "threat_level": 4,
+          "movement": "aerial",
+          "spawn_zone_type": "aerial"
+        }
+      },
+      {
+        "type": "medium_flyer",
+        "position": {
+          "x": 14,
+          "y": 2
+        },
+        "zone_id": "aerial_5",
+        "properties": {
+          "threat_level": 4,
+          "movement": "aerial",
+          "spawn_zone_type": "aerial"
+        }
+      },
+      {
+        "type": "medium_flyer",
+        "position": {
+          "x": 14,
+          "y": 30
+        },
+        "zone_id": "aerial_104",
+        "properties": {
+          "threat_level": 4,
+          "movement": "aerial",
+          "spawn_zone_type": "aerial"
+        }
+      },
+      {
+        "type": "medium_flyer",
+        "position": {
+          "x": 10,
+          "y": 8
+        },
+        "zone_id": "aerial_27",
+        "properties": {
+          "threat_level": 4,
+          "movement": "aerial",
+          "spawn_zone_type": "aerial"
+        }
+      }
+    ],
+    "obstacles": [
+      {
+        "type": "spike",
+        "position": {
+          "x": 7,
+          "y": 46
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "drill",
+        "position": {
+          "x": 1,
+          "y": 29
+        },
+        "properties": {
+          "extend_distance": 3,
+          "cycle_time": 2.0
+        },
+        "category": "hazard",
+        "threat_level": 5
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 10,
+          "y": 45
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 11,
+          "y": 0
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 10,
+          "y": 39
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 21,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 5,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 5,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 21,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 15,
+          "y": 23
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "drill",
+        "position": {
+          "x": 1,
+          "y": 25
+        },
+        "properties": {
+          "extend_distance": 3,
+          "cycle_time": 2.0
+        },
+        "category": "hazard",
+        "threat_level": 5
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 5,
+          "y": 46
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "drill",
+        "position": {
+          "x": 1,
+          "y": 21
+        },
+        "properties": {
+          "extend_distance": 3,
+          "cycle_time": 2.0
+        },
+        "category": "hazard",
+        "threat_level": 5
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 10,
+          "y": 39
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 16,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 17,
+          "y": 46
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "drill",
+        "position": {
+          "x": 1,
+          "y": 22
+        },
+        "properties": {
+          "extend_distance": 3,
+          "cycle_time": 2.0
+        },
+        "category": "hazard",
+        "threat_level": 5
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 10,
+          "y": 0
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 22,
+          "y": 46
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "drill",
+        "position": {
+          "x": 1,
+          "y": 7
+        },
+        "properties": {
+          "extend_distance": 3,
+          "cycle_time": 2.0
+        },
+        "category": "hazard",
+        "threat_level": 5
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 12,
+          "y": 39
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 13,
+          "y": 23
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 14,
+          "y": 23
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "drill",
+        "position": {
+          "x": 1,
+          "y": 6
+        },
+        "properties": {
+          "extend_distance": 3,
+          "cycle_time": 2.0
+        },
+        "category": "hazard",
+        "threat_level": 5
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 7,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 10,
+          "y": 23
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 6,
+          "y": 46
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 3,
+          "y": 46
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 3,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 6,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 11,
+          "y": 23
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "drill",
+        "position": {
+          "x": 1,
+          "y": 9
+        },
+        "properties": {
+          "extend_distance": 3,
+          "cycle_time": 2.0
+        },
+        "category": "hazard",
+        "threat_level": 5
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 19,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "drill",
+        "position": {
+          "x": 1,
+          "y": 18
+        },
+        "properties": {
+          "extend_distance": 3,
+          "cycle_time": 2.0
+        },
+        "category": "hazard",
+        "threat_level": 5
+      },
+      {
+        "type": "drill",
+        "position": {
+          "x": 1,
+          "y": 14
+        },
+        "properties": {
+          "extend_distance": 3,
+          "cycle_time": 2.0
+        },
+        "category": "hazard",
+        "threat_level": 5
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 5,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "drill",
+        "position": {
+          "x": 22,
+          "y": 35
+        },
+        "properties": {
+          "extend_distance": 3,
+          "cycle_time": 2.0
+        },
+        "category": "hazard",
+        "threat_level": 5
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 17,
+          "y": 46
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 12,
+          "y": 23
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 16,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 11,
+          "y": 0
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 3,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 14,
+          "y": 0
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 5,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 12,
+          "y": 0
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 11,
+          "y": 0
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 4,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 5,
+          "y": 46
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 9,
+          "y": 23
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 12,
+          "y": 39
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "drill",
+        "position": {
+          "x": 1,
+          "y": 7
+        },
+        "properties": {
+          "extend_distance": 3,
+          "cycle_time": 2.0
+        },
+        "category": "hazard",
+        "threat_level": 5
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 18,
+          "y": 46
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "drill",
+        "position": {
+          "x": 1,
+          "y": 15
+        },
+        "properties": {
+          "extend_distance": 3,
+          "cycle_time": 2.0
+        },
+        "category": "hazard",
+        "threat_level": 5
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 10,
+          "y": 45
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 6,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 11,
+          "y": 39
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 6,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 17,
+          "y": 46
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 17,
+          "y": 46
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 10,
+          "y": 39
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "drill",
+        "position": {
+          "x": 22,
+          "y": 42
+        },
+        "properties": {
+          "extend_distance": 3,
+          "cycle_time": 2.0
+        },
+        "category": "hazard",
+        "threat_level": 5
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 18,
+          "y": 46
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 12,
+          "y": 39
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 11,
+          "y": 39
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 2,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "drill",
+        "position": {
+          "x": 22,
+          "y": 43
+        },
+        "properties": {
+          "extend_distance": 3,
+          "cycle_time": 2.0
+        },
+        "category": "hazard",
+        "threat_level": 5
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 6,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 17,
+          "y": 46
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 4,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 19,
+          "y": 46
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 4,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "drill",
+        "position": {
+          "x": 22,
+          "y": 36
+        },
+        "properties": {
+          "extend_distance": 3,
+          "cycle_time": 2.0
+        },
+        "category": "hazard",
+        "threat_level": 5
+      },
+      {
+        "type": "drill",
+        "position": {
+          "x": 1,
+          "y": 17
+        },
+        "properties": {
+          "extend_distance": 3,
+          "cycle_time": 2.0
+        },
+        "category": "hazard",
+        "threat_level": 5
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 14,
+          "y": 45
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 21,
+          "y": 46
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 14,
+          "y": 0
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "drill",
+        "position": {
+          "x": 1,
+          "y": 21
+        },
+        "properties": {
+          "extend_distance": 3,
+          "cycle_time": 2.0
+        },
+        "category": "hazard",
+        "threat_level": 5
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 10,
+          "y": 23
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "spike",
+        "position": {
+          "x": 13,
+          "y": 45
+        },
+        "properties": {},
+        "category": "hazard",
+        "threat_level": 3
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 9,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 19,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "drill",
+        "position": {
+          "x": 1,
+          "y": 16
+        },
+        "properties": {
+          "extend_distance": 3,
+          "cycle_time": 2.0
+        },
+        "category": "hazard",
+        "threat_level": 5
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 2,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      },
+      {
+        "type": "drill",
+        "position": {
+          "x": 1,
+          "y": 31
+        },
+        "properties": {
+          "extend_distance": 3,
+          "cycle_time": 2.0
+        },
+        "category": "hazard",
+        "threat_level": 5
+      },
+      {
+        "type": "falling_stalactite",
+        "position": {
+          "x": 2,
+          "y": 1
+        },
+        "properties": {
+          "fall_delay": 0.5,
+          "respawn_time": 5.0
+        },
+        "category": "hazard",
+        "threat_level": 4
+      }
+    ],
+    "save_point": null
+  },
+  "level_info": {
+    "level_id": "TowerClimb_L10",
+    "stats": {
+      "difficulty": 10,
+      "shape": "vertical_up",
+      "size": "long",
+      "quality_score": 6.225,
+      "enemy_count": 23,
+      "obstacle_count": 85,
+      "has_save_point": false
+    }
+  }
+}
